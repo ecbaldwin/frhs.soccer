@@ -2,6 +2,8 @@ languageCode = "en-us"
 title = "FRHS Girls Soccer"
 theme = "ananke"
 
+googleAnalytics = "UA-154626693-1"
+
 [params]
   favicon = "images/favicon.png"
   twitter = "https://twitter.com/soccerfossil"
