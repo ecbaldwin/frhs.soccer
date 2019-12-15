@@ -1,4 +1,10 @@
 baseURL = "https://frhs.soccer/"
 languageCode = "en-us"
-title = "Fossil Ridge High School Sabercats Soccer"
+title = "FRHS Girls Soccer"
 theme = "ananke"
+
+[params]
+  favicon = "images/favicon.png"
+  twitter = "https://twitter.com/soccerfossil"
+  instagram = "https://www.instagram.com/fossilridgesoccer/"
+  description = "Home of the FRHS Girls Soccer"

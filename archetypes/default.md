@@ -1,6 +1,5 @@
-+++
-date: {{ .Date }}
+---
+date: "{{ .Date }}"
 title: "{{ replace .Name "-" " " | title }}"
-Tags = []
-+++
+---
 
