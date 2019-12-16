@@ -4,5 +4,5 @@ expirydate: 2020-04-01T00:00:00-07:00
 title: "Save the date: tryouts"
 ---
 
-Tryouts will be held on Monday, March 2nd. We don't know the time yet but we
-will communicate that when we do.
+Tryouts will run the week beginning Monday, March 2nd. We don't know times yet
+but we will communicate that when we do.
