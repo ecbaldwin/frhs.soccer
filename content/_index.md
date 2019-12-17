@@ -4,7 +4,7 @@ omit_header_text: true
 featured_image: /images/IMG_8967.jpg
 ---
 
-![FRHS Logo](/images/home_school_logo.png)
+![FRHS Logo](/images/FRHS_Soccer_Fangs_Ball.png)
 
 This website is owned and operated by supporters of the [Fossil Ridge Girls
 Soccer Team] and is not part of [Fossil Ridge High School] or the [Poudre School
