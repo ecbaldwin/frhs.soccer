@@ -1,6 +1,7 @@
 languageCode = "en-us"
 title = "FRHS Girls Soccer"
 theme = "ananke"
+baseURL = "/"
 
 [params]
   favicon = "images/favicon.png"
