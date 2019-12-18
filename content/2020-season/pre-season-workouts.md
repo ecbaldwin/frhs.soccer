@@ -27,11 +27,11 @@ Come prepared to train for the hour. Cleats and shin guards are required.
 
 # Loveland Sports Park
 
-Heather will be sending out additional sign-ups for other trainings as soon as
-we get through these sessions. Each player will be invited to sign up for at
-least 2 sessions from 6 different dates available. These sessions will all be
-held at Loveland Sports Park. Please be thinking about which two dates will work
-best for you:
+The team manager will be sending out additional sign-ups for other trainings as
+soon as we get through these sessions. Each player will be invited to sign up
+for at least 2 sessions from 6 different dates available. These sessions will
+all be held at Loveland Sports Park. Please be thinking about which two dates
+will work best for you:
 
     Jan 6:  7:00 - 8:30pm
     Jan 11: 2:00 - 4:00pm
