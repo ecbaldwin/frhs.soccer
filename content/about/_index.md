@@ -7,7 +7,9 @@ featured_image: ../images/IMG_8969.jpg
 
 # Staff
 
-Head Coach: Kim Whisenant
+Varsity Head Coach: Kim Whisenant
+
+Assistant Varsity Coach: Lauren Roeling
 
 # Contact
 

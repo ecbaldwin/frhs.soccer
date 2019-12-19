@@ -36,6 +36,7 @@ will work best for you:
     Jan 6:  7:00 - 8:30pm
     Jan 11: 2:00 - 4:00pm
     Jan 13: 7:00 - 8:30pm
+    Jan 25: 2:00 - 4:00pm
     Feb 1:  2:00 - 4:00pm
     Feb 8:  2:00 - 4:00pm
 
