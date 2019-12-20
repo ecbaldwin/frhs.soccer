@@ -2,6 +2,11 @@
 title: "Girls Soccer Online Store"
 date: 2019-12-17T18:00:00-07:00
 expirydate: 2020-02-18T00:00:00-07:00
+events:
+  - title: Store Closes
+    start: 2020-01-19
+  - title: Estimated Delivery (all week)
+    start: 2020-02-10
 ---
 
 [Girls Soccer online store] is now open!
