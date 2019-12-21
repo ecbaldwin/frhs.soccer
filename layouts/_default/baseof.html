@@ -28,7 +28,11 @@
     <link rel='stylesheet' href='{{ replaceRE "[/]*$" "" (relURL $.Site.BaseURL) }}/fullcalendar/core/main.min.css' />
     <link rel='stylesheet' href='{{ replaceRE "[/]*$" "" (relURL $.Site.BaseURL) }}/fullcalendar/list/main.min.css' />
 
+    <script src='{{ replaceRE "[/]*$" "" (relURL $.Site.BaseURL) }}/moment/moment.min.js'></script>
+    <script src='{{ replaceRE "[/]*$" "" (relURL $.Site.BaseURL) }}/moment/moment-timezone-with-data-10-year-range.min.js'></script>
     <script src='{{ replaceRE "[/]*$" "" (relURL $.Site.BaseURL) }}/fullcalendar/core/main.min.js'></script>
+    <script src='{{ replaceRE "[/]*$" "" (relURL $.Site.BaseURL) }}/fullcalendar/moment/main.min.js'></script>
+    <script src='{{ replaceRE "[/]*$" "" (relURL $.Site.BaseURL) }}/fullcalendar/moment-timezone/main.min.js'></script>
     <script src='{{ replaceRE "[/]*$" "" (relURL $.Site.BaseURL) }}/fullcalendar/list/main.min.js'></script>
     <script>
 
@@ -36,7 +40,8 @@
         var calendarDiv = document.getElementById('calendar');
 
         var calendar = new FullCalendar.Calendar(calendarDiv, {
-          plugins: [ 'list' ],
+          timeZone: 'America/Denver',
+          plugins: [ 'momentTimezone', 'list' ],
           header: false,
           buttonText: {
             "listFuture": "List"
