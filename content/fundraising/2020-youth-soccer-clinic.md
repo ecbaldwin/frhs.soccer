@@ -2,6 +2,13 @@
 title: "Youth Soccer Clinic 2020"
 date: 2019-12-17T20:30:00-07:00
 expirydate: 2020-01-25T00:00:00-07:00
+events:
+  - title: Clinic for 2nd - 4th grades
+    start: 2020-01-24T16:30:00
+    end: 2020-01-24T18:00:00
+  - title: Clinic for 5th - 7th grades
+    start: 2020-01-24T18:30:00
+    end: 2020-01-24T20:00:00
 ---
 
 In January the girls will take to the gym floor to provide fundamental training
@@ -24,9 +31,7 @@ district. So, be sure to tell your friends!
 
 ## Details
 
-- ***Date*** is Friday, January 24th
-- ***Time*** for 2nd - 4th grades is 4:30-6:00 pm
-- ***Time*** for 5th - 7th grades is 6:30-8:00 pm
+- ***Date/Time*** see calendar below ...
 - ***Location*** is the [FRHS Gym][FRHS Gym]: 5400 Ziegler Road Fort Collins
 - ***Cost*** is $25
 - Wear tennis shoes/flats (no cleats)

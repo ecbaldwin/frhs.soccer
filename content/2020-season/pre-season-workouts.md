@@ -2,6 +2,31 @@
 date: "2019-12-15T19:30:00-07:00"
 expirydate: 2020-04-01T00:00:00-07:00
 title: "Pre-season workouts"
+events:
+  - title: Indoor Training at The Edge (1)
+    start: 2019-12-12T16:15:00
+    end: 2019-12-12T17:15:00
+  - title: Indoor Training at The Edge (2)
+    start: 2019-12-19T17:15:00
+    end: 2019-12-19T18:15:00
+  - title: LSP Training (1)
+    start: 2020-01-06T19:00
+    end: 2020-01-06T20:30
+  - title: LSP Training (2)
+    start: 2020-01-11T14:00
+    end: 2020-01-11T16:00
+  - title: LSP Training (3)
+    start: 2020-01-13T19:00
+    end: 2020-01-13T20:30
+  - title: LSP Training (4)
+    start: 2020-01-25T14:00
+    end: 2020-01-25T16:00
+  - title: LSP Training (5)
+    start: 2020-02-01T14:00
+    end: 2020-02-01T16:00
+  - title: LSP Training (6)
+    start: 2020-02-08T14:00
+    end: 2020-02-08T16:00
 ---
 
 Pre-season workouts can help you stay in shape over the winter. These are
@@ -32,13 +57,6 @@ soon as we get through these sessions. Each player will be invited to sign up
 for at least 2 sessions from 6 different dates available. These sessions will
 all be held at Loveland Sports Park. Please be thinking about which two dates
 will work best for you:
-
-    Jan 6:  7:00 - 8:30pm
-    Jan 11: 2:00 - 4:00pm
-    Jan 13: 7:00 - 8:30pm
-    Jan 25: 2:00 - 4:00pm
-    Feb 1:  2:00 - 4:00pm
-    Feb 8:  2:00 - 4:00pm
 
 Sign-ups coming soon... Please check back later.
 
