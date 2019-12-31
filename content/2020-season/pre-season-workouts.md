@@ -1,6 +1,6 @@
 ---
 date: "2019-12-15T19:30:00-07:00"
-expirydate: 2020-04-01T00:00:00-07:00
+expirydate: 2019-12-20T00:00:00-07:00
 title: "Pre-season workouts"
 events:
   - title: Indoor Training at The Edge (1)
