@@ -41,7 +41,6 @@ Thank you!
 
 Location: [Loveland Sports Park (Turf)][lsp]
 
-[Click here to sign up][1]
+{{< signup 20F0E44ADAF29AAFB6-frhs >}}
 
-[1]: https://www.signupgenius.com/go/20F0E44ADAF29AAFB6-frhs
 [lsp]: https://goo.gl/maps/aHFig52DWHvzgQNm8
