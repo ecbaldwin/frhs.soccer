@@ -20,3 +20,7 @@ events:
 The indoor soccer schedule is out for the Integrity Sports league. This is for
 all of the incoming freshman who have signed up to play. Be sure to check what
 team you're on to see the right schedule.
+
+Location: [Integrity Sports Arena Turf][turf]
+
+[turf]: https://goo.gl/maps/WpukCdeTWav2LHa9A
