@@ -1,9 +1,9 @@
 ---
-date: "2019-12-30T20:00:00-07:00"
+date: "2020-01-05T10:35:00-07:00"
 expirydate: 2020-02-02T00:00:00-07:00
 title: "Open Training Sessions Sign Ups"
 events:
-  - title: LSP Training (1)
+  - title: "CANCELLED: LSP Training (1)"
     start: 2020-01-06T16:00:00
     end: 2020-01-06T18:00:00
     uuid: 32F9E559-EE37-41D9-B4B2-F66833F7E851
@@ -24,6 +24,9 @@ events:
     end: 2020-02-01T16:00:00
     uuid: 0AC154A4-2EA8-4322-825E-16CC59707C7B
 ---
+
+***Note that the training originally scheduled for the 6th of January has been
+cancelled due to high winds.***
 
 The FRHS Girls soccer coaches have coordinated a series of pre-season open
 trainings. Sessions are open to anyone considering trying out for FRHS Girls
