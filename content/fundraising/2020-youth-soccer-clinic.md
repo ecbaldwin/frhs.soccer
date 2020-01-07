@@ -1,6 +1,6 @@
 ---
 title: "Youth Soccer Clinic 2020"
-date: 2019-12-17T20:30:00-07:00
+date: 2020-01-07T16:55:00-07:00
 expirydate: 2020-01-25T00:00:00-07:00
 events:
   - title: Clinic for 2nd - 4th grades
@@ -45,6 +45,6 @@ Use our [contact page] if you have questions.
 
 [FRHS Gym]: https://goo.gl/maps/kDu1omU5THFzXEAy6
 [Youth-Soccer-2-4]: https://www.schoolpay.com/link/FRHS-Youth-Soccer-2-4
-[Youth-Soccer-5-7]: https://www.schoolpay.com/link/Youth-Soccer-5-7.
+[Youth-Soccer-5-7]: https://www.schoolpay.com/link/Youth-Soccer-5-7
 [paper form]: /files/2020-FRHS-Soccer-Clinic-Registration.pdf
 [contact page]: /about/#contact
