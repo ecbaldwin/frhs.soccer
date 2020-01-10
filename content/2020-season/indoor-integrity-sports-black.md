@@ -23,4 +23,10 @@ team you're on to see the right schedule.
 
 Location: [Integrity Sports Arena Turf][turf]
 
+***Please note*** that the schedule has been somewhat fluid during the season so
+this might not be perfect. Be sure to double check the [schedule page on
+Integrity Sports Arena site][integrity-schedules] (Find "Girls Winter 1
+Schedule" and then click on "High School Girls.pdf").
+
 [turf]: https://goo.gl/maps/WpukCdeTWav2LHa9A
+[integrity-schedules]: https://integritysportsarena.com/res/soccerschedulescores
