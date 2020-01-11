@@ -1,22 +1,29 @@
 <footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+  {{ if ne "sponsors" .Section }}
   <div class="flex justify-between">
-    <div class="w-100 w-50-l">
-      &nbsp;
       <section class="pb3 w-100">
         <div class="center mw9">
           &nbsp;
           <h3 class="b f3 mv0 light-gray"> Sponsors </h3>
-          <div class="flex-ns flex-wrap center justify-between pt3">
-            <div class="ba b--light-gray bg-light-gray br3 flex flex-column flex-wrap items-center justify-center ph3 pv4 mb4 w-100 w-30-l o-100">
-              <a href="http://www.pipercommunications.com/" class="grow">
-                <img src="{{ replaceRE "[/]*$" "" (relURL $.Site.BaseURL) }}/images/piper-logo.png" alt="Logo for Piper Communication Services, Inc." class="img h3 center"/>
-              </a>
+          {{ $section := where .Site.Pages "Section" "sponsors" }}
+          <section class="flex-ns flex-wrap">
+          {{ range $section }}
+            {{ if .IsPage }}
+            <div class="relative w-100 w-30-l pt3 ph3">
+              <div class="ba b--light-gray bg-light-gray br3 flex items-center justify-center ph3 pv4 mb4">
+                <a href="{{ .Params.sponsor_url }}" class="grow">
+                  <img src="{{ replaceRE "[/]*$" "" (relURL $.Site.BaseURL) }}{{ .Params.summary_image }}" alt="Logo for {{ .Params.title }}" class="img h3 center"/>
+                </a>
+              </div>
             </div>
-          </div>
+            {{ end }}
+          {{ end }}
+          </section>
+
         </div>
       </section>
-    </div>
   </div>
+  {{ end }}
   <div class="flex justify-between">
   <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.BaseURL }}" >
     &copy; {{ now.Format "2006" }} {{ .Site.Title }}
