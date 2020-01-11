@@ -12,9 +12,11 @@
 
       <section class="w-100 mw8">
         {{ range (first $n_posts $section) }}
+          {{ if ne .Dir "sponsors/" }}
           <div class="relative w-100 mb4">
             {{ partial "summary-with-image.html" . }}
           </div>
+          {{ end }}
         {{ end }}
       </section>
 
