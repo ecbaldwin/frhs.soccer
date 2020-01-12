@@ -7,6 +7,15 @@
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
+    {{ if .Params.summary_image }}
+      {{ if .Params.sponsor_url }}
+      <a href="{{ .Params.sponsor_url }}">
+        <img src="{{ .Params.summary_image }}" alt="Logo" class="grow fl w4 mr3"/>
+      </a>
+      {{ else }}
+        <img src="{{ .Params.summary_image }}" alt="Logo" class="grow fl w4 mr3"/>
+      {{ end }}
+    {{ end }}
       {{ .Summary  }}
     </div>
     <div>

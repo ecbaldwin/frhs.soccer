@@ -1,17 +1,10 @@
-{{ define "main" }}
-  {{/* Create a variable with that section to use in multiple places. */}}
-  {{ $section := .Site.RegularPages }}
-  {{/* Check to see if the section is defined for ranging through it */}}
-  {{ $section_count := len $section }}
-  {{ if ge $section_count 1 }}
-
-  {{ end }}
-<section class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+  {{ if (and (ne "sponsors" .Section) (ne "" .Section)) }}
   <div class="flex justify-between">
       <section class="pb3 w-100">
         <div class="center mw9">
           &nbsp;
-          <h3 class="b f3 mv0 light-gray"> Thank You to our sponsors: </h3>
+          <h3 class="b f3 mv0 light-gray"> Sponsors </h3>
           {{ $section := where .Site.Pages "Section" "sponsors" }}
           <section class="flex-ns flex-wrap">
           {{ range $section }}
@@ -30,8 +23,11 @@
         </div>
       </section>
   </div>
-</section>
-  <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
-    {{ .Content }}
-  </article>
-{{ end }}
+  {{ end }}
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.BaseURL }}" >
+    &copy; {{ now.Format "2006" }} {{ .Site.Title }}
+  </a>
+    <div>{{ partial "social-follow.html" . }}</div>
+  </div>
+</footer>
