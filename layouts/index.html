@@ -6,6 +6,31 @@
   {{ if ge $section_count 1 }}
 
   {{ end }}
+<section class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+      <section class="pb3 w-100">
+        <div class="center mw9">
+          &nbsp;
+          <h3 class="b f3 mv0 light-gray"> Thank You to our sponsors: </h3>
+          {{ $section := where .Site.Pages "Section" "sponsors" }}
+          <section class="flex-ns flex-wrap">
+          {{ range $section }}
+            {{ if .IsPage }}
+            <div class="relative w-100 w-30-l pt3 ph3">
+              <div class="ba b--light-gray bg-light-gray br3 flex items-center justify-center ph3 pv4 mb4">
+                <a href="{{ .Params.sponsor_url }}" class="grow">
+                  <img src="{{ replaceRE "[/]*$" "" (relURL $.Site.BaseURL) }}{{ .Params.summary_image }}" alt="Logo for {{ .Params.title }}" class="img h3 center"/>
+                </a>
+              </div>
+            </div>
+            {{ end }}
+          {{ end }}
+          </section>
+
+        </div>
+      </section>
+  </div>
+</section>
   <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
     {{ .Content }}
   </article>
