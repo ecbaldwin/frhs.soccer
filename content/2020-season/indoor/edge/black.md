@@ -1,7 +1,7 @@
 ---
 date: "2020-01-10T11:15:00-07:00"
 expirydate: 2020-02-22T00:00:00-07:00
-title: "Indoor, Edge, Black Team"
+title: "Black Team Schedule"
 events:
   - title: Trix vs Fossil Ridge Black
     start: 2020-01-04T20:00:00
@@ -19,9 +19,6 @@ events:
     start: 2020-02-07T22:00:00
     end: 2020-02-07T23:00:00
 ---
-
-The indoor soccer schedule is out. Be sure to check what team you're on to see
-the right schedule.
 
 ***Please note*** that the schedule has been somewhat fluid during the season so
 this might not be perfect. Be sure to double check the [schedule page on
