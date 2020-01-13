@@ -1,7 +1,9 @@
 ---
-title: "Girls Soccer Online Store"
-date: 2019-12-17T18:00:00-07:00
+title: "Apparel"
+date: "2020-01-12T20:00:00-07:00"
 expirydate: 2020-02-18T00:00:00-07:00
+menu: main
+featured_image: ../images/IMG_2770.jpg
 events:
   - title: Store Closes
     start: 2020-01-19
