@@ -1,7 +1,7 @@
 ---
 date: "2020-01-13T09:30:00-07:00"
 expirydate: 2020-02-02T00:00:00-07:00
-title: "Open Training Sessions Sign Ups"
+title: "Open Training Sessions"
 events:
   - title: "CANCELLED: LSP Training (1)"
     start: 2020-01-06T16:00:00

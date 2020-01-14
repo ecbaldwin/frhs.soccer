@@ -1,7 +1,7 @@
 ---
 date: "2019-12-15T19:30:00-07:00"
 expirydate: 2020-04-01T00:00:00-07:00
-title: "Save the date: tryouts"
+title: "Save the Date: Tryouts"
 events:
   - title: Tryouts (week of)
     start: 2020-03-02

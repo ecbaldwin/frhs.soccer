@@ -3,11 +3,14 @@
     <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
       {{- .Content -}}
     </section>
+    {{ $paginator := .Paginate .Pages }}
     <section class="flex-ns flex-wrap justify-around mt5">
-      {{ range .Paginator.Pages }}
+      {{ range $paginator.Pages }}
+        {{ if (or (lt .ExpiryDate.Unix 0) (ge .ExpiryDate now)) }}
         <div class="relative w-100 w-30-l mb4 bg-white">
           {{- partial "summary.html" . -}}
         </div>
+        {{ end }}
       {{ end }}
     </section>
       {{ if .Params.events }}
