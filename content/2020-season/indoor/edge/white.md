@@ -1,6 +1,6 @@
 ---
 date: "2020-01-10T11:15:00-07:00"
-expirydate: 2020-02-22T00:00:00-07:00
+expirydate: 2020-02-23T00:00:00-07:00
 title: "White Team Schedule"
 events:
   - title: Grizzly Navy vs Fossil Ridge White

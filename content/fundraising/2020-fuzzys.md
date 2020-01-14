@@ -16,7 +16,9 @@ events:
 
 Come Support the Fossil Ridge High School Girls Soccer Team! They will be
 selling warm brownies with vanilla ice cream covered in chocolate drizzle for
-$5! 100% of proceeds go to the team! Player's [click here to sign up][signup].
+$5! 100% of proceeds go to the team!
+
+Player's please [click here to sign up to volunteer][signup].
 
 <!--more-->
 
