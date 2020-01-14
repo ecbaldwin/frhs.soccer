@@ -1,5 +1,5 @@
 ---
-date: "2020-01-13T09:30:00-07:00"
+date: "2020-01-13T20:10:00-07:00"
 expirydate: 2020-02-02T00:00:00-07:00
 title: "Open Training Sessions"
 events:
@@ -19,14 +19,15 @@ events:
     start: 2020-01-25T14:00:00
     end: 2020-01-25T16:00:00
     uuid: A29898E5-2972-44AE-A820-81BED9A93061
-  - title: LSP Training (5)
-    start: 2020-02-01T14:00:00
-    end: 2020-02-01T16:00:00
+  - title: "TIME CHANGED: LSP Training (5)"
+    start: 2020-02-01T10:00:00
+    end: 2020-02-01T12:00:00
     uuid: 0AC154A4-2EA8-4322-825E-16CC59707C7B
 ---
 
-***Note that the training originally scheduled for the 13th of January has been
-moved to the football turf at FRHS***
+***Remaining sessions are moved to FRHS Turf***
+
+***Note the time change for session 5***
 
 The FRHS Girls soccer coaches have coordinated a series of pre-season open
 trainings. Sessions are open to anyone considering trying out for FRHS Girls
@@ -42,10 +43,9 @@ sessions into the other sessions.
 
 Thank you!
 
-Location: [Loveland Sports Park (Turf)][lsp] (Training on 13th of January has
-been moved to the football turf at FRHS)
+Location: [FRHS Turf][turf]
 
 [Click here to sign up][1]
 
 [1]: https://www.signupgenius.com/go/20F0E44ADAF29AAFB6-frhs
-[lsp]: https://goo.gl/maps/aHFig52DWHvzgQNm8
+[turf]: https://goo.gl/maps/jyMaFSoHBzKSjK94A
