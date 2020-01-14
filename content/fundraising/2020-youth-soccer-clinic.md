@@ -1,6 +1,6 @@
 ---
 title: "Youth Soccer Clinic 2020"
-date: 2020-01-07T16:55:00-07:00
+date: 2020-01-13T17:30:00-07:00
 expirydate: 2020-01-25T00:00:00-07:00
 events:
   - title: Clinic for 2nd - 4th grades
@@ -11,9 +11,12 @@ events:
     end: 2020-01-24T20:00:00
 ---
 
-In January the girls will take to the gym floor to provide fundamental training
-and skills sessions in a safe, healthy, and fun learning environment for all
-ability levels, from 2nd through 7th grade youth.
+In January the girls will provide fundamental training and skills sessions in a
+safe, healthy, and fun learning environment for all ability levels, from 2nd
+through 7th grade youth!
+
+Player's and parents please [click here to sign up to volunteer][signup]. Try to
+leave the earlier times for players who have indoor games to get to that evening.
 
 <!--more-->
 
@@ -48,3 +51,4 @@ Use our [contact page] if you have questions.
 [Youth-Soccer-5-7]: https://www.schoolpay.com/link/Youth-Soccer-5-7
 [paper form]: /files/2020-FRHS-Soccer-Clinic-Registration.pdf
 [contact page]: /about/#contact
+[signup]: https://www.signupgenius.com/go/20F0E44ADAF29AAFB6-frhs1

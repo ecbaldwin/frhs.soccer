@@ -1,6 +1,6 @@
 ---
 date: "2020-01-10T11:15:00-07:00"
-expirydate: 2020-02-22T00:00:00-07:00
+expirydate: 2020-02-23T00:00:00-07:00
 title: "Green Team Schedule"
 events:
   - title: Poudre Royal 2020 vs Fossil Ridge Green
