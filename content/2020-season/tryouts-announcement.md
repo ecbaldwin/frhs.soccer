@@ -1,11 +1,32 @@
 ---
-date: "2019-12-15T19:30:00-07:00"
+date: "2020-01-13T20:20:00-07:00"
 expirydate: 2020-04-01T00:00:00-07:00
-title: "Save the Date: Tryouts"
+title: "Registration for Tryouts"
 events:
-  - title: Tryouts (week of)
+  - title: Tryouts (All week)
     start: 2020-03-02
 ---
 
+Registration is now open for all players looking to tryout for FRHS girls
+soccer.  You will need to view the [FRHS athletic website][frhs-athletics] for
+full instructions with links. (Look for the section titled "*Instructions below
+for athletic high school sports packet*")
+
+<!--more-->
+
+In Summary, each player must:
+
+1. Complete a player registration via sports engine
+1. Turn in their annual athletic physical
+1. Pay the athletic fee for soccer via School Pay
+
+This is the player's responsibility. ***Players must get a pass/orange card from
+the athletic office*** to verify all of this is completed ***before*** they will
+be permitted to attend tryouts or any preseason camps.  No exceptions are
+allowed. If you have any questions regarding the meeting or registration
+requirements you will need to speak with the FRHS athletic office.
+
 Tryouts will run the week beginning Monday, March 2nd. We don't know times yet
 but we will communicate that when we do.
+
+[frhs-athletics]: https://frh.psdschools.org/athletics
