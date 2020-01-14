@@ -14,6 +14,8 @@ for athletic high school sports packet*")
 
 <!--more-->
 
+[Click here for more information about springs sports at FRHS][flyer]
+
 In Summary, each player must:
 
 1. Complete a player registration via sports engine
@@ -29,4 +31,5 @@ requirements you will need to speak with the FRHS athletic office.
 Tryouts will run the week beginning Monday, March 2nd. We don't know times yet
 but we will communicate that when we do.
 
+[flyer]: https://frh.psdschools.org/webfm/969
 [frhs-athletics]: https://frh.psdschools.org/athletics
