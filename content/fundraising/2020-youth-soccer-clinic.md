@@ -15,9 +15,6 @@ In January the girls will provide fundamental training and skills sessions in a
 safe, healthy, and fun learning environment for all ability levels, from 2nd
 through 7th grade youth!
 
-Player's and parents please [click here to sign up to volunteer][signup]. Try to
-leave the earlier times for players who have indoor games to get to that evening.
-
 <!--more-->
 
 Online registration uses **SchoolPay** to register and pay with credit card. A
@@ -45,6 +42,12 @@ district. So, be sure to tell your friends!
 Team.**
 
 Use our [contact page] if you have questions.
+
+## Parents and Players
+
+Player's and parents please [click here to sign up to volunteer][signup]. Try to
+leave the earlier times for players who have indoor games to get to that
+evening.
 
 [FRHS Gym]: https://goo.gl/maps/kDu1omU5THFzXEAy6
 [Youth-Soccer-2-4]: https://www.schoolpay.com/link/FRHS-Youth-Soccer-2-4
