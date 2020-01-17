@@ -1,0 +1,22 @@
+{{- $top := .Page -}}
+{{- $pages := slice -}}
+
+{{- range .Site.Pages -}}
+    {{- if .IsDescendant $top -}}
+        {{- if .Params.events -}}
+            {{- $pages = $pages | append . -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
+
+{{- if gt (len $pages) 0 -}}
+    {{- partial "ics-begin" . -}}
+    {{- range $pages -}}
+        {{- $gitinfo := .GitInfo -}}
+        {{- $page := .Page -}}
+        {{- range .Params.events -}}
+            {{- partial "ics-event" (dict "ctx" . "gitinfo" $gitinfo "page" $page ) -}}
+        {{- end -}}
+    {{- end -}}
+    {{- partial "ics-end" . -}}
+{{- end -}}
