@@ -1,0 +1,16 @@
+BEGIN:VEVENT
+DTSTART;TZID=America/Denver:{{ replaceRE "[-:]" "" .ctx.start }}
+{{ if .ctx.end -}}
+DTEND;TZID=America/Denver:{{ replaceRE "[-:]" "" .ctx.end }}
+{{ end -}}
+DTSTAMP;TZID=America/Denver:{{ now.Format "20060102T150405" }}
+UID:{{ .ctx.uuid }}@frhs.soccer
+CREATED;TZID=America/Denver:{{ dateFormat "20060102T150405" .page.Date }}
+DESCRIPTION:{{ replaceRE "[,;:]" "" .ctx.description| default "" | safeHTML }}
+LAST-MODIFIED;TZID=America/Denver:{{ dateFormat "20060102T150405" .gitinfo.AuthorDate }}
+LOCATION:
+SEQUENCE:{{ sub now.Unix 1577939326 }}
+STATUS:CONFIRMED
+SUMMARY:"{{ replaceRE "[,;:]" "" .page.Params.title | safeHTML }}: {{ replaceRE "[,;:]" "" .ctx.title | safeHTML }}"
+TRANSP:TRANSPARENT
+END:VEVENT

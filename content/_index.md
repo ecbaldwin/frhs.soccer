@@ -1,5 +1,6 @@
 ---
 date: "2019-12-13T20:52:32-07:00"
+title: FRHS Soccer
 omit_header_text: true
 featured_image: /images/IMG_8967.jpg
 ---

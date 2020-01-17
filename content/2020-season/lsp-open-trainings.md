@@ -3,23 +3,23 @@ date: "2020-01-13T20:10:00-07:00"
 expirydate: 2020-02-02T00:00:00-07:00
 title: "Open Training Sessions"
 events:
-  - title: "CANCELLED: LSP Training (1)"
+  - title: "CANCELLED: First Session"
     start: 2020-01-06T16:00:00
     end: 2020-01-06T18:00:00
     uuid: 32F9E559-EE37-41D9-B4B2-F66833F7E851
-  - title: LSP Training (2)
+  - title: Second Session
     start: 2020-01-11T14:00:00
     end: 2020-01-11T16:00:00
     uuid: 7217D57D-615B-42DF-B4F0-2E2BF25F6096
-  - title: LSP Training (3)
+  - title: Third Session
     start: 2020-01-13T17:00:00
     end: 2020-01-13T19:00:00
     uuid: A4A8DE6A-0C1E-439B-8600-0FFA0F417B47
-  - title: LSP Training (4)
+  - title: Fourth Session
     start: 2020-01-25T14:00:00
     end: 2020-01-25T16:00:00
     uuid: A29898E5-2972-44AE-A820-81BED9A93061
-  - title: "TIME CHANGED: LSP Training (5)"
+  - title: "TIME CHANGED: Fifth Session"
     start: 2020-02-01T10:00:00
     end: 2020-02-01T12:00:00
     uuid: 0AC154A4-2EA8-4322-825E-16CC59707C7B

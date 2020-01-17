@@ -1,9 +1,9 @@
 ---
 date: "2020-01-13T20:15:00-07:00"
 expirydate: 2020-02-26T00:00:00-07:00
-title: "All Spring Sports Parent & Athlete Meeting"
+title: "Spring Sports Parent & Athlete Meeting"
 events:
-  - title: Spring Sports Parent & Athlete Meeting
+  - title: Meeting
     start: 2020-02-25T18:30:00
 ---
 

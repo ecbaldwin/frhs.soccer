@@ -1,14 +1,16 @@
 ---
-title: "Youth Soccer Clinic 2020"
+title: "Youth Soccer Clinic"
 date: 2020-01-13T17:30:00-07:00
 expirydate: 2020-01-25T00:00:00-07:00
 events:
-  - title: Clinic for 2nd - 4th grades
+  - title: 2nd - 4th grades
     start: 2020-01-24T16:30:00
     end: 2020-01-24T18:00:00
-  - title: Clinic for 5th - 7th grades
+    uuid: C27437A0-2837-4E04-A26B-19D888FDE538
+  - title: 5th - 7th grades
     start: 2020-01-24T18:30:00
     end: 2020-01-24T20:00:00
+    uuid: 1D51B40E-5B8B-4645-A751-55B0C6B00390
 ---
 
 In January the girls will provide fundamental training and skills sessions in a
