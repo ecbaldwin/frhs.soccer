@@ -7,8 +7,10 @@ featured_image: ../images/IMG_2770.jpg
 events:
   - title: Store Closes
     start: 2020-01-19
+    uuid: B4859A68-5F11-415A-BC41-58A67814E353
   - title: Estimated Delivery (all week)
     start: 2020-02-10
+    uuid: 8622ABC2-178A-4EEF-B2BB-C92C0E9573D7
 ---
 
 [Girls Soccer online store] is now open!

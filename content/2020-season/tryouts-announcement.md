@@ -5,6 +5,7 @@ title: "Registration for Tryouts"
 events:
   - title: Tryouts (All week)
     start: 2020-03-02
+    uuid: 530933D1-8402-4744-B28B-836855EB0E5D
 ---
 
 Registration is now open for all players looking to tryout for FRHS girls

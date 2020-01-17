@@ -3,15 +3,18 @@ title: "Fuzzy's Taco Nights"
 date: 2020-01-07T08:50:00-07:00
 expirydate: 2020-02-20T00:00:00-07:00
 events:
-  - title: Fuzzy's Taco Night (1)
+  - title: First Night
     start: 2020-01-20T17:00:00
     end: 2020-01-20T19:00:00
-  - title: Fuzzy's Taco Night (2)
+    uuid: C9F439C2-EE01-4065-B846-D34D0242CF35
+  - title: Second Night
     start: 2020-02-03T17:00:00
     end: 2020-02-03T19:00:00
-  - title: Fuzzy's Taco Night (3)
+    uuid: 47101C5C-141F-4421-B7A7-8A3DC77654D4
+  - title: Third Night
     start: 2020-02-19T17:00:00
     end: 2020-02-19T19:00:00
+    uuid: 549BEF5C-86BB-43A7-B52C-D053FD786B81
 ---
 
 Come Support the Fossil Ridge High School Girls Soccer Team! They will be
