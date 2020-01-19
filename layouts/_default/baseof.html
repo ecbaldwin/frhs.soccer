@@ -23,6 +23,7 @@
       <link rel="stylesheet" href="{{ relURL ($.Site.BaseURL) }}{{ . }}">
     {{ end }}
 
+    {{ block "calendarscript" . }}
     {{ if .Params.events }}
     {{ $events := .Params.events }}
     <link rel='stylesheet' href='{{ replaceRE "[/]*$" "" (relURL $.Site.BaseURL) }}/fullcalendar/core/main.min.css' />
@@ -68,6 +69,7 @@
       });
 
     </script>
+    {{ end }}
     {{ end }}
 
     {{ block "favicon" . }}

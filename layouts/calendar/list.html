@@ -1,0 +1,220 @@
+{{ define "calendarscript" }}
+<link rel='stylesheet' href='{{ replaceRE "[/]*$" "" (relURL $.Site.BaseURL) }}/fullcalendar/core/main.min.css' />
+<link rel='stylesheet' href='{{ replaceRE "[/]*$" "" (relURL $.Site.BaseURL) }}/fullcalendar/list/main.min.css' />
+<link rel='stylesheet' href='{{ replaceRE "[/]*$" "" (relURL $.Site.BaseURL) }}/fullcalendar/daygrid/main.min.css' />
+<link rel='stylesheet' href='{{ replaceRE "[/]*$" "" (relURL $.Site.BaseURL) }}/fullcalendar/timegrid/main.min.css' />
+
+<script src='{{ replaceRE "[/]*$" "" (relURL $.Site.BaseURL) }}/moment/moment.min.js'></script>
+<script src='{{ replaceRE "[/]*$" "" (relURL $.Site.BaseURL) }}/moment/moment-timezone-with-data-10-year-range.min.js'></script>
+<script src='{{ replaceRE "[/]*$" "" (relURL $.Site.BaseURL) }}/fullcalendar/core/main.min.js'></script>
+<script src='{{ replaceRE "[/]*$" "" (relURL $.Site.BaseURL) }}/fullcalendar/moment/main.min.js'></script>
+<script src='{{ replaceRE "[/]*$" "" (relURL $.Site.BaseURL) }}/fullcalendar/moment-timezone/main.min.js'></script>
+<script src='{{ replaceRE "[/]*$" "" (relURL $.Site.BaseURL) }}/fullcalendar/list/main.min.js'></script>
+<script src='{{ replaceRE "[/]*$" "" (relURL $.Site.BaseURL) }}/fullcalendar/daygrid/main.min.js'></script>
+<script src='{{ replaceRE "[/]*$" "" (relURL $.Site.BaseURL) }}/fullcalendar/timegrid/main.min.js'></script>
+<style>
+
+  /*
+  i wish this required CSS was better documented :(
+  https://github.com/FezVrasta/popper.js/issues/674
+  derived from this CSS on this page: https://popper.js.org/tooltip-examples.html
+  */
+
+  .popper,
+  .tooltip {
+    position: absolute;
+    z-index: 9999;
+    background: #FFC107;
+    color: black;
+    width: 150px;
+    border-radius: 3px;
+    box-shadow: 0 0 2px rgba(0,0,0,0.5);
+    padding: 10px;
+    text-align: center;
+  }
+  .style5 .tooltip {
+    background: #1E252B;
+    color: #FFFFFF;
+    max-width: 200px;
+    width: auto;
+    font-size: .8rem;
+    padding: .5em 1em;
+  }
+  .popper .popper__arrow,
+  .tooltip .tooltip-arrow {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    position: absolute;
+    margin: 5px;
+  }
+
+  .tooltip .tooltip-arrow,
+  .popper .popper__arrow {
+    border-color: #FFC107;
+  }
+  .style5 .tooltip .tooltip-arrow {
+    border-color: #1E252B;
+  }
+  .popper[x-placement^="top"],
+  .tooltip[x-placement^="top"] {
+    margin-bottom: 5px;
+  }
+  .popper[x-placement^="top"] .popper__arrow,
+  .tooltip[x-placement^="top"] .tooltip-arrow {
+    border-width: 5px 5px 0 5px;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    bottom: -5px;
+    left: calc(50% - 5px);
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .popper[x-placement^="bottom"],
+  .tooltip[x-placement^="bottom"] {
+    margin-top: 5px;
+  }
+  .tooltip[x-placement^="bottom"] .tooltip-arrow,
+  .popper[x-placement^="bottom"] .popper__arrow {
+    border-width: 0 5px 5px 5px;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    border-top-color: transparent;
+    top: -5px;
+    left: calc(50% - 5px);
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .tooltip[x-placement^="right"],
+  .popper[x-placement^="right"] {
+    margin-left: 5px;
+  }
+  .popper[x-placement^="right"] .popper__arrow,
+  .tooltip[x-placement^="right"] .tooltip-arrow {
+    border-width: 5px 5px 5px 0;
+    border-left-color: transparent;
+    border-top-color: transparent;
+    border-bottom-color: transparent;
+    left: -5px;
+    top: calc(50% - 5px);
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .popper[x-placement^="left"],
+  .tooltip[x-placement^="left"] {
+    margin-right: 5px;
+  }
+  .popper[x-placement^="left"] .popper__arrow,
+  .tooltip[x-placement^="left"] .tooltip-arrow {
+    border-width: 5px 0 5px 5px;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    right: -5px;
+    top: calc(50% - 5px);
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+</style>
+<script src='https://unpkg.com/popper.js/dist/umd/popper.min.js'></script>
+<script src='https://unpkg.com/tooltip.js/dist/umd/tooltip.min.js'></script>
+<script>
+
+  document.addEventListener('DOMContentLoaded', function() {
+    var calendarDiv = document.getElementById('calendar');
+
+    var calendar = new FullCalendar.Calendar(calendarDiv, {
+      timeZone: 'America/Denver',
+      plugins: [ 'momentTimezone', 'list', 'dayGrid', 'timeGrid' ],
+      footer: {
+          left: 'dayGridMonth,timeGridWeek,listFuture',
+          right: 'prev,next today'
+      },
+      header: {
+          left: 'title',
+          right: 'dayGridMonth,timeGridWeek,listFuture',
+      },
+      buttonText: {
+        "listFuture": "List",
+        "dayGridMonth": "Month",
+        "timeGridWeek": "Week"
+      },
+      defaultView: 'dayGridMonth',
+      height: "auto", // Essentially removes scroll bars.
+      views: {
+        listFuture: { // Defines a custom list view that includes all events in the next year.
+          type: "list",
+          duration: { days: 365 }
+        }
+      },
+      listDayFormat: { weekday: "long" },
+      listDayAltFormat: { month: "long", day: "numeric" },
+      minTime: "08:00:00",
+      eventRender: function(info) {
+          if( info.view.viewSpec.type === "listFuture" ) {
+              return
+          }
+          var tooltip = new Tooltip(info.el, {
+              title: info.event.title,
+              placement: 'top',
+              trigger: 'hover',
+              container: 'body'
+          });
+      },
+      events: [
+      {{- $events := slice -}}
+      {{- range .Site.Pages -}}
+          {{- if .Params.events -}}
+              {{- $page := . -}}
+              {{- $e := slice -}}
+              {{- range .Params.events -}}
+                  {{- $e = $e | append (dict "title" (printf "%s: %s" $page.Params.title .title) "start" .start "end" .end "uuid" .uuid "url" $page.RelPermalink ) }}
+              {{- end -}}
+              {{- $events = $events | append $e -}}
+          {{- end -}}
+      {{- end -}}
+      {{- range $index, $value := $events }}
+          {{ $value }}{{- if ne $index (sub (len $events) 1) -}},{{ end }}
+      {{- end -}}
+      ]
+
+    });
+
+    calendar.render();
+  });
+
+</script>
+<script>
+
+  function copy() {
+    /* Get the text field */
+    var copyText = document.getElementById("calendar_url");
+
+    /* Select the text field */
+    copyText.select();
+    copyText.setSelectionRange(0, 99999); /*For mobile devices*/
+
+    /* Copy the text inside the text field */
+    document.execCommand("copy");
+  }
+
+  window.onload = function() {
+      base = window.location.origin;
+      document.getElementById("calendar_url").value = base + "/index.ics";
+  };
+
+</script>
+{{ end }}
+{{ define "main" }}
+    <article class="pa3">
+        <div id='calendar'></div>
+    </article>
+    <article class="pa3">
+        <p>Calendar URL:
+        <button onclick="copy()">Copy</button>
+        <input type="text" value="" id="calendar_url" readonly size="30">
+        </p>
+    </article>
+{{ end }}
