@@ -5,6 +5,7 @@ title: "Spring Sports Parent & Athlete Meeting"
 events:
   - title: Meeting
     start: 2020-02-25T18:30:00
+    uuid: 59D9B81F-7448-4F09-8AD3-D3449A9DA3BD
 ---
 
 All Spring Sports Parent and Athlete Meeting - Tuesday, February 25, 2020 at
