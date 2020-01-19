@@ -186,9 +186,35 @@
   });
 
 </script>
+<script>
+
+  function copy() {
+    /* Get the text field */
+    var copyText = document.getElementById("calendar_url");
+
+    /* Select the text field */
+    copyText.select();
+    copyText.setSelectionRange(0, 99999); /*For mobile devices*/
+
+    /* Copy the text inside the text field */
+    document.execCommand("copy");
+  }
+
+  window.onload = function() {
+      base = window.location.origin;
+      document.getElementById("calendar_url").value = base + "/index.ics";
+  };
+
+</script>
 {{ end }}
 {{ define "main" }}
     <article class="pa3">
         <div id='calendar'></div>
+    </article>
+    <article class="pa3">
+        <p>Calendar URL:
+        <button onclick="copy()">Copy</button>
+        <input type="text" value="" id="calendar_url" readonly size="30">
+        </p>
     </article>
 {{ end }}
