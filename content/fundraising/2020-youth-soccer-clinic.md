@@ -25,6 +25,9 @@ processing fee will be added. There is **limited space**, register early.
 - For 2nd to 4th grade youth, [click here to register][Youth-Soccer-2-4]
 - For 5th to 7th grade youth, [click here to register][Youth-Soccer-5-7] (Corrected)
 
+If SchoolPay isn't working correctly, please use our [contact page] to get in
+touch and we'll help you out.
+
 If you need to pay with a check, [click here][paper form] to download a form that you can
 print and mail in with payment.
 
