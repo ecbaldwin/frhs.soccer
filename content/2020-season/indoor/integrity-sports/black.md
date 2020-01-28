@@ -19,9 +19,15 @@ events:
     start: 2020-01-24T20:15:00
     end: 2020-01-24T21:15:00
     uuid: 59E4827D-6D51-4367-9439-31D9A0E3A540
+  - title: FRHS Black vs Cheetah Girls
+    start: 2020-01-31T18:15:00
+    end: 2020-01-31T19:15:00
+    uuid: C4A602E9-2137-4EB8-9B39-E545B05F4002
 ---
 
 <!--more-->
+
+Location: [Integrity Sports Arena Turf][turf]
 
 ***Please note*** that the schedule has been somewhat fluid during the season so
 this might not be perfect. Be sure to double check the [schedule page on

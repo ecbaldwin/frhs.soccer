@@ -19,15 +19,20 @@ events:
     start: 2020-01-24T20:15:00
     end: 2020-01-24T21:15:00
     uuid: 86093645-9F49-429F-A768-4DD369811794
+  - title: FRHS Green vs Cougars
+    start: 2020-01-31T19:15:00
+    end: 2020-01-31T20:15:00
+    uuid: A226DE2F-BD7F-41CA-859F-A89D90E6AB4B
 ---
 
 <!--more-->
 
-This is the schedule for the FRHS Green team playing at the 
+Location: [Integrity Sports Arena Turf][turf]
 
 ***Please note*** that the schedule has been somewhat fluid during the season so
 this might not be perfect. Be sure to double check the [schedule page on
 Integrity Sports Arena site][integrity-schedules] (Find "Girls Winter 1
 Schedule" and then click on "High School Girls.pdf").
 
+[turf]: https://goo.gl/maps/WpukCdeTWav2LHa9A
 [integrity-schedules]: https://integritysportsarena.com/res/soccerschedulescores
