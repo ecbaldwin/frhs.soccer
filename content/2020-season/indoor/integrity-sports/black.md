@@ -24,8 +24,8 @@ events:
     end: 2020-01-31T19:15:00
     uuid: C4A602E9-2137-4EB8-9B39-E545B05F4002
   - title: FRHS Black vs FRHS Green
-    start: 2020-02-07T17:15:00
-    end: 2020-02-07T18:15:00
+    start: 2020-02-07T19:15:00
+    end: 2020-02-07T20:15:00
     uuid: A102A10B-6F52-4D43-B9DD-B4E51EBDC02F
 ---
 
