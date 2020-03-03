@@ -1,6 +1,6 @@
 ---
 date: "2020-01-13T20:20:00-07:00"
-expirydate: 2020-04-01T00:00:00-07:00
+expirydate: 2020-03-02T00:00:00-07:00
 title: "Registration for Tryouts"
 events:
   - title: Tryouts (All week)
