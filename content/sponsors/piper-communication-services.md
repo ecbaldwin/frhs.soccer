@@ -11,6 +11,6 @@ sponsor_url: http://www.pipercommunications.com/
 [Piper Communication Services, Inc][Homepage] is a proud sponsor of FRHS Girls
 Soccer.
 
-![Piper Communication Services, Inc. Logo](/images/piper-logo.jgp)
+![Piper Communication Services, Inc. Logo](/images/piper-logo.jpg)
 
 [homepage]: http://www.pipercommunications.com/
