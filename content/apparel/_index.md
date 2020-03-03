@@ -1,29 +1,31 @@
 ---
 title: "Apparel"
-date: "2020-01-12T20:00:00-07:00"
-expirydate: 2020-02-18T00:00:00-07:00
+date: "2020-03-01T20:00:00-07:00"
+expirydate: 2020-03-10T00:00:00-07:00
 menu: main
 featured_image: ../images/IMG_2770.jpg
 events:
   - title: Store Closes
-    start: 2020-01-19
-    uuid: B4859A68-5F11-415A-BC41-58A67814E353
-  - title: Estimated Delivery (all week)
-    start: 2020-02-10
-    uuid: 8622ABC2-178A-4EEF-B2BB-C92C0E9573D7
+    start: 2020-03-10
+    uuid: F60600D8-57B3-44F9-A519-C1FDA12BE2E9
+  # - title: Estimated Delivery (all week)
+  #   start: 2020-02-10
+  #   uuid: BBA20843-48A6-4D24-84FC-2DC5019D57B1
 ---
 
-[Girls Soccer online store] is now open!
+[Girls Soccer online store] is open once again for a limited time (one week)!
+Sales code: GOCATS2020
 
 <!--more-->
 
 Shirts, shorts, team hoodies, sweatpants, hats, blankets and much more are
 available for fans and players. Orders are optional and **must be placed by
-January 19th**. Orders are targeted to be available for **pick up at school the
-week of February 10th**.
+March 10th**.
 
-The store will be re-opened for a shorter period of time after tryouts.
+Go [here][girls soccer online store] and enter the following sale code:
 
-Note: **the girls soccer program receives 10% on all gear that is ordered.**
+    GOCATS2020
 
-[girls soccer online store]: https://frhsgirlssoccer2020.itemorder.com/sale
+**The girls soccer program receives 10% on all orders.**
+
+[girls soccer online store]: https://gojosports.itemorder.com
