@@ -1,0 +1,59 @@
+#!/usr/bin/env python3
+
+import collections
+import csv
+import datetime
+import re
+import sys
+import uuid
+import yaml
+
+# Schedules indexed by team
+schedules = collections.defaultdict(list)
+
+def parse_date_time(date, time):
+        parsed = datetime.datetime.strptime(
+            "%sT%s" % (date, time),
+            "%m/%d/%YT%H:%M:%S %p")
+        # strptime doesn't seem to honor the am/pm so make adjustments
+        if parsed.hour == 12:
+            parsed = parsed - datetime.timedelta(hours=12)
+        if "PM" in time:
+            parsed = parsed + datetime.timedelta(hours=12)
+        return parsed.strftime("%Y-%m-%dT%H:%M:%S")
+
+
+with open(sys.argv[1], 'r') as csvfile:
+    reader = csv.reader(csvfile)
+    header = next(reader)
+    ndxes = {value: ndx for ndx, value in enumerate(header)}
+    # {'Subject': 0, 'Start Date': 1, 'Start Time': 2, 'End Date': 3, 'End Time': 4, 'Description': 5, 'Location': 6}
+    for row in reader:
+        team = row[ndxes['Subject']].strip()
+        title = row[ndxes['Description']].strip()
+        title = re.sub(r".*Opponent: ", "", title)
+        location = row[ndxes['Location']].strip()
+        schedules[team].append({
+            'title': re.sub(r"\s+", " ", "vs %s @ %s" % (title, location)),
+            'start': parse_date_time(
+                row[ndxes['Start Date']],
+                row[ndxes['Start Time']]),
+            'end': parse_date_time(
+                row[ndxes['End Date']],
+                row[ndxes['End Time']]),
+            'uuid': str(uuid.uuid4()),
+            'location': location,
+        })
+
+
+team_files = {
+    'Soccer: Girls C-Team': 'cteam.yml',
+    'Soccer: Girls JV': 'junior.yml',
+    'Soccer: Girls Varsity': 'varsity.yml',
+}
+
+
+for k, v in schedules.items():
+    filename = team_files[k]
+    with open(filename, 'w') as ymlfile:
+        ymlfile.write(yaml.dump(v))
