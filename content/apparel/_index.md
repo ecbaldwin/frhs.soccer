@@ -7,7 +7,7 @@ featured_image: ../images/IMG_2770.jpg
 events:
   - title: Apparel Store Open
     start: 2020-03-03
-    end: 2020-03-11
+    end: 2020-03-12
     uuid: F60600D8-57B3-44F9-A519-C1FDA12BE2EA
   # - title: Estimated Delivery (all week)
   #   start: 2020-02-10
