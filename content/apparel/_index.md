@@ -21,7 +21,7 @@ Sales code: GOCATS2020
 
 Shirts, shorts, team hoodies, sweatpants, hats, blankets and much more are
 available for fans and players. Orders are optional and **must be placed by
-March 10th**.
+March 11th**.
 
 Go [here][girls soccer online store] and enter the following sale code:
 
