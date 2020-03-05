@@ -28,9 +28,9 @@ events:
       start: '2020-04-09T17:00:00'
       title: vs Rocky Mountain @ Fossil Ridge High School Soccer Grass (North)
       uuid: 3fca2c70-2a7c-4fca-a66f-fadb99d667d1
-    - end: '2020-04-14T18:30:00'
+    - end: '2020-04-14T18:00:00'
       location: Rocky Mountain High School
-      start: '2020-04-14T17:00:00'
+      start: '2020-04-14T16:30:00'
       title: vs Fort Collins @ Rocky Mountain High School
       uuid: 238e9bfe-9c47-4374-a7e3-9992fdb3cba8
     - end: '2020-04-16T18:00:00'
