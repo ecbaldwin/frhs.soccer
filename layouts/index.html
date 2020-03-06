@@ -16,10 +16,10 @@
           <section class="flex-ns flex-wrap">
           {{ range $section }}
             {{ if .IsPage }}
-            <div class="relative w-100 w-30-l pt3 ph3">
-              <div class="ba b--light-gray bg-light-gray br3 flex items-center justify-center ph3 pv4 mb4">
+            <div class="relative w-100 w-third-l pt3 ph3">
+              <div class="bg-white br3 flex items-center justify-center ph2 pv4 mb4">
                 <a href="{{ .Params.sponsor_url }}" class="grow">
-                  <img src="{{ replaceRE "[/]*$" "" (relURL $.Site.BaseURL) }}{{ .Params.summary_image }}" alt="Logo for {{ .Params.title }}" class="img h3 center"/>
+                  <img src="{{ replaceRE "[/]*$" "" (relURL $.Site.BaseURL) }}{{ .Params.summary_image }}" alt="Logo for {{ .Params.title }}" class="img h4 center"/>
                 </a>
               </div>
             </div>
