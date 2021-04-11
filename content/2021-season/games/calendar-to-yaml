@@ -1,0 +1,49 @@
+#!/bin/bash
+
+# Usage $0 [Varsity|JV|C-Team]
+
+cal="https://srv1-advancedview.rschooltoday.com/public/conference/ical/u/e5cb1933b949cb19dfd38ae56ea1cb87"
+
+# cat calendar.ics |
+curl -o - "$cal" |
+    dos2unix |
+    sed -e s,:,+, |
+    awk -F + '
+	BEGIN {
+	    in_event = 0
+	}
+	$1 == "BEGIN" && $2 == "VEVENT" {
+	    in_event = 1
+	    pre = "- "
+	}
+	$1 == "END" && $2 == "VEVENT" {
+	    in_event = 0
+	}
+
+	{ if (in_event == 0) { next } }
+	
+	$1 == "SUMMARY" {
+	    print pre "title: \"" $2 "\""
+	    pre = "  "
+	}
+	function format_date(d) {
+	    return substr(d,1,4)"-"substr(d,5,2)"-"substr(d,7,5)":"substr(d,12,2)":"substr(d,14)
+	}
+	$1 == "DTSTART" {
+	    print pre "start: " format_date($2)
+	    pre = "  "
+	}
+	$1 == "DTEND" {
+	    print pre "end: " format_date($2)
+	    pre = "  "
+	}
+	$1 == "LOCATION" {
+	    print pre "location: " $2
+	    pre = "  "
+	}
+	$1 == "UID" {
+	    print pre "uuid: " $2
+	    pre = "  "
+	}' |
+    yq e '.[] | select(.title == "Soccer: Girls '$1'*") | [.]' - |
+    sed 's,^,    ,'
