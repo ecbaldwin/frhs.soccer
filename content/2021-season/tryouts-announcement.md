@@ -1,13 +1,16 @@
 ---
-date: "2021-04-05T20:20:00-06:00"
+date: "2021-04-15T10:45:00-06:00"
 expirydate: 2021-04-30T00:00:00-07:00
 title: "Registration for Tryouts"
 events:
   - title: Tryouts
     start: 2021-04-26
-    end: 2021-04-30
+    end: 2021-04-29
     uuid: 859F46C6-7686-4767-8077-7C6643D19C41
 ---
+
+*_Updated_*: Tryouts will be completed Wednesday the 28th so that practice can begin on
+Thursday.
 
 Registration is now open for all players looking to tryout for FRHS girls
 soccer.  You will need to view the [FRHS athletic website][frhs-athletics] for
