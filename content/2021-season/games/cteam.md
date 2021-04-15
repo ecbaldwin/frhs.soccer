@@ -13,21 +13,16 @@ events:
       location: Mountain Range High School
       title: "Soccer: Girls C-Team  vs. Mountain Range (Away)"
       uuid: 20210506T163000-24-3-670913253@https://www.frontrangeleague.org
-    - end: 2021-05-11T16:30:00
-      start: 2021-05-11T16:30:00
-      location: Fossil Ridge High School  Soccer Grass (North)
-      title: "Soccer: Girls C-Team  vs. Poudre (Home)"
-      uuid: 20210511T163000-24-3-670913257@https://www.frontrangeleague.org
     - end: 2021-05-13T16:30:00
       start: 2021-05-13T16:30:00
       location: Rocky Mountain High School
       title: "Soccer: Girls C-Team  vs. Rocky Mountain (Away)"
-      uuid: 20210513T163000-24-3-670913274@https://www.frontrangeleague.org
-    - end: 2021-05-18T16:30:00
-      start: 2021-05-18T16:30:00
+      uuid: 20210513T163000-24-3-670940011@https://www.frontrangeleague.org
+    - end: 2021-05-18T16:00:00
+      start: 2021-05-18T16:00:00
       location: Broomfield High School
       title: "Soccer: Girls C-Team  vs. Broomfield High School (Away)"
-      uuid: 20210518T163000-24-3-670913286@https://www.frontrangeleague.org
+      uuid: 20210518T160000-24-3-670938171@https://www.frontrangeleague.org
     - end: 2021-05-25T16:30:00
       start: 2021-05-25T16:30:00
       location: Fairview High School

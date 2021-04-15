@@ -4,8 +4,7 @@
 
 cal="https://srv1-advancedview.rschooltoday.com/public/conference/ical/u/e5cb1933b949cb19dfd38ae56ea1cb87"
 
-# cat calendar.ics |
-curl -o - "$cal" |
+curl -o - "$cal" 2>/dev/null |
     dos2unix |
     sed -e s,:,+, |
     awk -F + '

@@ -15,9 +15,9 @@ events:
       uuid: 20210506T183000-24-3-17913245@https://www.frontrangeleague.org
     - end: 2021-05-11T18:30:00
       start: 2021-05-11T18:30:00
-      location: Poudre High School
+      location: Fossil Ridge High School
       title: "Soccer: Girls Varsity  vs. Poudre (Away)"
-      uuid: 20210511T183000-24-3-17913261@https://www.frontrangeleague.org
+      uuid: 20210511T183000-24-3-17939987@https://www.frontrangeleague.org
     - end: 2021-05-13T18:30:00
       start: 2021-05-13T18:30:00
       location: Fossil Ridge High School  Stadium Turf
