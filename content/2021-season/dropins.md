@@ -3,11 +3,11 @@ date: "2021-04-08T10:00:00-06:00"
 expirydate: 2021-04-23T00:00:00-06:00
 title: "Drop-In Dates"
 events:
-  - title: Drop Ins
+  - title: (Cancelled!) Drop Ins
     start: 2021-04-19T16:30:00
     end: 2021-04-19T18:00:00
     uuid: 859F46C6-7686-4767-8077-7C6643D19C41
-  - title: Drop Ins
+  - title: (Cancelled!) Drop Ins
     start: 2021-04-20T16:30:00
     end: 2021-04-20T18:00:00
     uuid: D39A91BB-FF1D-4B27-A018-6DB5D95BAD50
