@@ -8,11 +8,11 @@ events:
       location: Boulder High School
       title: "Soccer: Girls Varsity  vs. Boulder (Away)"
       uuid: 20210504T070000-24-3-17937513@https://www.frontrangeleague.org
-    - end: 2021-05-06T18:30:00
-      start: 2021-05-06T18:30:00
+    - end: 2021-05-05T18:30:00
+      start: 2021-05-05T18:30:00
       location: Fossil Ridge High School  Stadium Turf
       title: "Soccer: Girls Varsity  vs. Mountain Range (Home)"
-      uuid: 20210506T183000-24-3-17913245@https://www.frontrangeleague.org
+      uuid: 20210505T183000-24-3-17940727@https://www.frontrangeleague.org
     - end: 2021-05-11T18:30:00
       start: 2021-05-11T18:30:00
       location: Fossil Ridge High School
