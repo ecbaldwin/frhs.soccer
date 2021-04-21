@@ -53,6 +53,7 @@ events:
       location: Monarch High School
       title: "Soccer: Girls JV  vs. Monarch (Away)"
       uuid: 20210610T163000-24-3-8913645@https://www.frontrangeleague.org
+# end events
 ---
 
 Click "read more" to view the junior varsity schedule.

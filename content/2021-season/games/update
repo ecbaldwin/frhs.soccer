@@ -1,0 +1,21 @@
+#!/bin/bash
+
+cd $(dirname $0)
+
+for team in Varsity JV C-Team
+do
+    file=$(echo $team | tr [[:upper:]] [[:lower:]] | sed s,-,,).md
+    (
+        cat $file | awk '
+            BEGIN {echo=1}
+            {print}
+            $0=="events:" {exit}
+        '
+        ./calendar-to-yaml $team
+        cat $file | awk '
+            BEGIN {echo=0}
+            $0=="# end events" {echo=1}
+            {if(echo==1)print}
+        '
+    ) > ${file}.new
+done
