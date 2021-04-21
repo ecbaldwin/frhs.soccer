@@ -33,11 +33,11 @@ events:
       location: Fossil Ridge High School  Stadium Turf
       title: "Soccer: Girls Varsity  vs. Fairview (Home)"
       uuid: 20210525T183000-24-3-17913590@https://www.frontrangeleague.org
-    - end: 2021-05-27T18:30:00
-      start: 2021-05-27T18:30:00
-      location: Fort Collins High School
+    - end: 2021-05-28T18:30:00
+      start: 2021-05-28T18:30:00
+      location: Fossil Ridge High School
       title: "Soccer: Girls Varsity  vs. Fort Collins (Away)"
-      uuid: 20210527T183000-24-3-17913605@https://www.frontrangeleague.org
+      uuid: 20210528T183000-24-3-17942173@https://www.frontrangeleague.org
     - end: 2021-06-03T18:30:00
       start: 2021-06-03T18:30:00
       location: Fossil Ridge High School  Stadium Turf
@@ -53,6 +53,7 @@ events:
       location: Monarch High School
       title: "Soccer: Girls Varsity  vs. Monarch (Away)"
       uuid: 20210610T183000-24-3-17913641@https://www.frontrangeleague.org
+# end events
 ---
 
 Click "read more" to view the varsity schedule.

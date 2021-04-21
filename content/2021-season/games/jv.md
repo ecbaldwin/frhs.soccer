@@ -33,11 +33,11 @@ events:
       location: Fossil Ridge High School  Soccer Grass (North)
       title: "Soccer: Girls JV  vs. Fairview (Home)"
       uuid: 20210525T163000-24-3-8913594@https://www.frontrangeleague.org
-    - end: 2021-05-27T16:30:00
-      start: 2021-05-27T16:30:00
+    - end: 2021-05-28T16:30:00
+      start: 2021-05-28T16:30:00
       location: Fort Collins High School
       title: "Soccer: Girls JV  vs. Fort Collins (Away)"
-      uuid: 20210527T163000-24-3-8913653@https://www.frontrangeleague.org
+      uuid: 20210528T163000-24-3-8942177@https://www.frontrangeleague.org
     - end: 2021-06-03T16:30:00
       start: 2021-06-03T16:30:00
       location: Fossil Ridge High School  Soccer Grass (North)
@@ -53,6 +53,7 @@ events:
       location: Monarch High School
       title: "Soccer: Girls JV  vs. Monarch (Away)"
       uuid: 20210610T163000-24-3-8913645@https://www.frontrangeleague.org
+# end events
 ---
 
 Click "read more" to view the junior varsity schedule.
