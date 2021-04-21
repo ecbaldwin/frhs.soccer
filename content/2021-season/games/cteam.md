@@ -48,6 +48,7 @@ events:
       location: Fossil Ridge High School  Soccer Grass (North)
       title: "Soccer: Girls C-Team  vs. Monarch (Home)"
       uuid: 20210610T163000-24-3-670913637@https://www.frontrangeleague.org
+# end events
 ---
 
 Click "read more" to view the c-team schedule.
