@@ -3,11 +3,11 @@ date: "2021-04-10T09:00:00-06:00"
 expirydate: 2021-07-01T00:00:00-06:00
 title: "Junior Varsity Game Schedule"
 events:
-    - end: 2021-05-04T05:00:00
-      start: 2021-05-04T05:00:00
+    - end: 2021-05-04T17:00:00
+      start: 2021-05-04T17:00:00
       location: Boulder High School
       title: "Soccer: Girls JV  vs. Boulder (Away)"
-      uuid: 20210504T050000-24-3-8937517@https://www.frontrangeleague.org
+      uuid: 20210504T170000-24-3-8942465@https://www.frontrangeleague.org
     - end: 2021-05-05T16:30:00
       start: 2021-05-05T16:30:00
       location: Fossil Ridge High School  Soccer Grass (North)
@@ -35,9 +35,9 @@ events:
       uuid: 20210525T163000-24-3-8913594@https://www.frontrangeleague.org
     - end: 2021-05-28T16:30:00
       start: 2021-05-28T16:30:00
-      location: Fort Collins High School
+      location: Fossil Ridge High School
       title: "Soccer: Girls JV  vs. Fort Collins (Away)"
-      uuid: 20210528T163000-24-3-8942177@https://www.frontrangeleague.org
+      uuid: 20210528T163000-24-3-8944253@https://www.frontrangeleague.org
     - end: 2021-06-03T16:30:00
       start: 2021-06-03T16:30:00
       location: Fossil Ridge High School  Soccer Grass (North)

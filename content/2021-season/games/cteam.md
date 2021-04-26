@@ -8,14 +8,9 @@ events:
       location: Fossil Ridge High School  Soccer Grass (North)
       title: "Soccer: Girls C-Team  vs. Boulder (Home)"
       uuid: 20210504T163000-24-3-670937519@https://www.frontrangeleague.org
-    - end: 2021-05-06T16:30:00
-      start: 2021-05-06T16:30:00
-      location: Mountain Range High School
-      title: "Soccer: Girls C-Team  vs. Mountain Range (Away)"
-      uuid: 20210506T163000-24-3-670913253@https://www.frontrangeleague.org
     - end: 2021-05-13T16:30:00
       start: 2021-05-13T16:30:00
-      location: Rocky Mountain High School
+      location: Fossil Ridge High School
       title: "Soccer: Girls C-Team  vs. Rocky Mountain (Away)"
       uuid: 20210513T163000-24-3-670940011@https://www.frontrangeleague.org
     - end: 2021-05-18T16:00:00
