@@ -3,11 +3,11 @@ date: "2021-04-10T09:00:00-06:00"
 expirydate: 2021-07-01T00:00:00-06:00
 title: "Varsity Game Schedule"
 events:
-    - end: 2021-05-04T07:00:00
-      start: 2021-05-04T07:00:00
+    - end: 2021-05-04T19:00:00
+      start: 2021-05-04T19:00:00
       location: Boulder High School
       title: "Soccer: Girls Varsity  vs. Boulder (Away)"
-      uuid: 20210504T070000-24-3-17937513@https://www.frontrangeleague.org
+      uuid: 20210504T190000-24-3-17942461@https://www.frontrangeleague.org
     - end: 2021-05-05T18:30:00
       start: 2021-05-05T18:30:00
       location: Fossil Ridge High School  Stadium Turf
@@ -33,11 +33,11 @@ events:
       location: Fossil Ridge High School  Stadium Turf
       title: "Soccer: Girls Varsity  vs. Fairview (Home)"
       uuid: 20210525T183000-24-3-17913590@https://www.frontrangeleague.org
-    - end: 2021-05-28T18:30:00
-      start: 2021-05-28T18:30:00
+    - end: 2021-05-28T19:00:00
+      start: 2021-05-28T19:00:00
       location: Fossil Ridge High School
       title: "Soccer: Girls Varsity  vs. Fort Collins (Away)"
-      uuid: 20210528T183000-24-3-17942173@https://www.frontrangeleague.org
+      uuid: 20210528T190000-24-3-17944249@https://www.frontrangeleague.org
     - end: 2021-06-03T18:30:00
       start: 2021-06-03T18:30:00
       location: Fossil Ridge High School  Stadium Turf
