@@ -28,11 +28,6 @@ events:
       location: Fossil Ridge High School  Soccer Grass (North)
       title: "Soccer: Girls C-Team  vs. Fort Collins (Home)"
       uuid: 20210527T163000-24-3-670913649@https://www.frontrangeleague.org
-    - end: 2021-06-03T16:30:00
-      start: 2021-06-03T16:30:00
-      location: Horizon High School
-      title: "Soccer: Girls C-Team  vs. Horizon (Away)"
-      uuid: 20210603T163000-24-3-670913621@https://www.frontrangeleague.org
     - end: 2021-06-08T16:30:00
       start: 2021-06-08T16:30:00
       location: Fossil Ridge High School  Soccer Grass (North)
