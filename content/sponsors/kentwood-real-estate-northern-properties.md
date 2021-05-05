@@ -1,7 +1,7 @@
 ---
 title: "Kentwood Real Estate Northern Properties"
 date: 2020-03-02 21:30:00-07:00
-expirydate: 2021-02-01T00:00:00-07:00
+expirydate: 2022-02-01T00:00:00-07:00
 summary_image: /images/kris-laine-kentwood-logo.png
 sponsor_url: http://krislaine.denverrealestate.com/
 ---
