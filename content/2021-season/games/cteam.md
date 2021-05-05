@@ -11,8 +11,8 @@ events:
     - end: 2021-05-05T16:30:00
       start: 2021-05-05T16:30:00
       location: Fort Collins High School
-      title: "Soccer: Girls C-Team  vs. Fort Collins (Away)"
-      uuid: 20210505T163000-24-3-670947518@https://www.frontrangeleague.org
+      title: "Soccer: Girls C-Team  (Cancelled) vs. Fort Collins (Away)"
+      uuid: 20210505T163000-24-3-670949478@https://www.frontrangeleague.org
     - end: 2021-05-13T16:30:00
       start: 2021-05-13T16:30:00
       location: Fossil Ridge High School
@@ -31,8 +31,8 @@ events:
     - end: 2021-05-27T16:30:00
       start: 2021-05-27T16:30:00
       location: Fossil Ridge High School  Soccer Grass (North)
-      title: "Soccer: Girls C-Team  vs. Fort Collins (Home)"
-      uuid: 20210527T163000-24-3-670913649@https://www.frontrangeleague.org
+      title: "Soccer: Girls C-Team  (Cancelled) vs. Fort Collins (Home)"
+      uuid: 20210527T163000-24-3-670949496@https://www.frontrangeleague.org
     - end: 2021-06-03T16:30:00
       start: 2021-06-03T16:30:00
       location: Rocky Mountain High School
