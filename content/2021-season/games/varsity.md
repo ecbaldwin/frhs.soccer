@@ -11,7 +11,7 @@ events:
     - end: 2021-05-05T18:30:00
       start: 2021-05-05T18:30:00
       location: Fossil Ridge High School  Stadium Turf
-      title: "Soccer: Girls Varsity  vs. Mountain Range (Home)"
+      title: "Soccer: Girls Varsity  (Date Changed to 05-19-21) vs. Mountain Range (Home)"
       uuid: 20210505T183000-24-3-17940727@https://www.frontrangeleague.org
     - end: 2021-05-11T18:30:00
       start: 2021-05-11T18:30:00
@@ -28,6 +28,11 @@ events:
       location: Fossil Ridge High School  Stadium Turf
       title: "Soccer: Girls Varsity  vs. Broomfield High School (Home)"
       uuid: 20210518T183000-24-3-17913278@https://www.frontrangeleague.org
+    - end: 2021-05-19T18:30:00
+      start: 2021-05-19T18:30:00
+      location: Fossil Ridge High School  Stadium Turf
+      title: "Soccer: Girls Varsity  (Date Changed from 05-05-21) vs. Mountain Range (Home)"
+      uuid: 20210519T183000-24-3-17949482@https://www.frontrangeleague.org
     - end: 2021-05-25T18:30:00
       start: 2021-05-25T18:30:00
       location: Fossil Ridge High School  Stadium Turf
