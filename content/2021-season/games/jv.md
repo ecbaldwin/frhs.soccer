@@ -16,7 +16,7 @@ events:
     - end: 2021-05-11T16:30:00
       start: 2021-05-11T16:30:00
       location: Fossil Ridge High School
-      title: "Soccer: Girls JV  vs. Poudre (Away)"
+      title: "Soccer: Girls JV  vs. Poudre (Away but played at home)"
       uuid: 20210511T163000-24-3-8939991@https://www.frontrangeleague.org
     - end: 2021-05-13T16:30:00
       start: 2021-05-13T16:30:00
