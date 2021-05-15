@@ -13,8 +13,8 @@ events:
       location: Fossil Ridge High School  Stadium Turf
       title: "Soccer: Girls Varsity  (Date Changed to 05-19-21) vs. Mountain Range (Home)"
       uuid: 20210505T183000-24-3-17940727@https://www.frontrangeleague.org
-    - end: 2021-05-11T18:30:00
-      start: 2021-05-11T18:30:00
+    - end: 2021-05-12T18:30:00
+      start: 2021-05-12T18:30:00
       location: Fossil Ridge High School
       title: "Soccer: Girls Varsity  vs. Poudre (Away but played at home)"
       uuid: 20210511T183000-24-3-17939987@https://www.frontrangeleague.org
