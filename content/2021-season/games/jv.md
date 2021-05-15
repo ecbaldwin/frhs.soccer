@@ -13,11 +13,11 @@ events:
       location: Fossil Ridge High School  Soccer Grass (North)
       title: "Soccer: Girls JV  (Cancelled) vs. Mountain Range (Home)"
       uuid: 20210505T163000-24-3-8947686@https://www.frontrangeleague.org
-    - end: 2021-05-11T16:30:00
-      start: 2021-05-11T16:30:00
+    - end: 2021-05-12T16:30:00
+      start: 2021-05-12T16:30:00
       location: Fossil Ridge High School
-      title: "Soccer: Girls JV  vs. Poudre (Away but played at home)"
-      uuid: 20210511T163000-24-3-8939991@https://www.frontrangeleague.org
+      title: "Soccer: Girls JV  vs. Poudre (Away)"
+      uuid: 20210512T163000-24-3-8953320@https://www.frontrangeleague.org
     - end: 2021-05-13T16:30:00
       start: 2021-05-13T16:30:00
       location: Fossil Ridge High School  Soccer Grass (North)
