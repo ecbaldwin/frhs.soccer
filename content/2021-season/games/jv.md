@@ -2,6 +2,7 @@
 date: "2021-04-10T09:00:00-06:00"
 expirydate: 2021-07-01T00:00:00-06:00
 title: "Junior Varsity Game Schedule"
+featured_image: /images/DSC_1685.JPG
 events:
     - end: 2021-05-04T17:00:00
       start: 2021-05-04T17:00:00
