@@ -23,11 +23,11 @@ events:
       location: Broomfield High School
       title: "Soccer: Girls C-Team  vs. Broomfield High School (Away)"
       uuid: 20210518T160000-24-3-670938171@https://www.frontrangeleague.org
-    - end: 2021-05-25T16:30:00
-      start: 2021-05-25T16:30:00
+    - end: 2021-05-25T16:00:00
+      start: 2021-05-25T16:00:00
       location: Fairview High School
-      title: "Soccer: Girls C-Team  vs. Fairview (Away)"
-      uuid: 20210525T163000-24-3-670913598@https://www.frontrangeleague.org
+      title: "Soccer: Girls C-Team  (Time Changed) vs. Fairview (Away)"
+      uuid: 20210525T160000-24-3-670958116@https://www.frontrangeleague.org
     - end: 2021-05-27T16:30:00
       start: 2021-05-27T16:30:00
       location: Fossil Ridge High School  Soccer Grass (North)
