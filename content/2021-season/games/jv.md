@@ -39,11 +39,11 @@ events:
       location: Fossil Ridge High School
       title: "Soccer: Girls JV  vs. Fort Collins (Away)"
       uuid: 20210528T163000-24-3-8944253@https://www.frontrangeleague.org
-    - end: 2021-06-03T16:30:00
-      start: 2021-06-03T16:30:00
+    - end: 2021-06-03T16:00:00
+      start: 2021-06-03T16:00:00
       location: Fossil Ridge High School  Soccer Grass (North)
-      title: "Soccer: Girls JV  vs. Horizon (Home)"
-      uuid: 20210603T163000-24-3-8913617@https://www.frontrangeleague.org
+      title: "Soccer: Girls JV  (Time Changed) vs. Horizon (Home)"
+      uuid: 20210603T160000-24-3-8959802@https://www.frontrangeleague.org
     - end: 2021-06-08T16:30:00
       start: 2021-06-08T16:30:00
       location: Legacy High School
