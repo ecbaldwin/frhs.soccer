@@ -1,26 +1,35 @@
 ---
-date: "2021-10-13T19:30:00-06:00"
-expirydate: 2021-11-03T00:00:00-07:00
-title: "Informational Meeting"
-events:
-    - start: 2021-11-02T19:00:00
-      end: 2021-11-02T21:00:00
-      location: Zoom (see email communications for details)
-      title: "zoom"
-      uuid: EE9BDB37-2DC2-4F5B-9F84-3D947926144B
+date: "2021-04-15T10:45:00-06:00"
+expirydate: 2021-04-30T00:00:00-07:00
+title: "Registration for Tryouts"
 ---
 
-We will hold our first informational meeting via zoom on Tuesday, Nov. 2nd at 7
-pm. Any players interested in playing in the spring of 2022 (returning and new)
-should have at least one person in attendance.
+*_Updated_*: Tryouts will be completed Wednesday the 28th so that practice can
+begin on Thursday.
+
+Registration is now open for all players looking to tryout for FRHS girls
+soccer.  You will need to view the [FRHS athletic website][frhs-athletics] for
+full instructions with links. (Look for the section titled "*Instructions below
+for athletic high school sports packet*")
 
 <!--more-->
 
-During the meeting, we will discuss optional pre-season training (to begin Jan.
-15th), tryout schedule (slated for the week of Feb. 21st), fundraising, team
-gear ordering information, and much more. We have a packed agenda for the hour
-and a full calendar to present.
+In Summary, each player must:
 
-Sign up for our email distribution list via the [contact us form][1].
+1. Complete a [player registration via sports engine][sports engine]
+1. Turn in their [annual athletic physical][physical form]
+1. Pay the athletic fee for soccer via [School Pay][pay]
 
-[1]: /about/
+This is the player's responsibility. ***Players must get a pass/orange card from
+the athletic office*** to verify all of this is completed ***before*** they will
+be permitted to attend tryouts or any preseason camps.  No exceptions are
+allowed. If you have any questions regarding the meeting or registration
+requirements you will need to speak with the FRHS athletic office.
+
+Tryouts will run the week beginning Monday, April 26th. We don't know times yet
+but we will communicate that when we do.
+
+[frhs-athletics]: https://frh.psdschools.org/athletics
+[sports engine]: https://www.psdathletics.org/hsregistration
+[physical form]: https://www.psdschools.org/programs-services/athletics/high-school-athletics
+[pay]: https://psdschools.schoolpay.com/
