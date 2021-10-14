@@ -1,13 +1,13 @@
 ---
-date: "2021-10-13T19:30:00-06:00"
-expirydate: 2021-11-03T00:00:00-07:00
-title: "Informational Meeting"
+date: "2021-10-13T20:50:00-06:00"
+expirydate: 2022-02-28T00:00:00-07:00
+title: "Tryouts"
 events:
-    - start: 2021-11-02T19:00:00
-      end: 2021-11-02T21:00:00
-      location: Zoom (see email communications for details)
-      title: "zoom"
-      uuid: EE9BDB37-2DC2-4F5B-9F84-3D947926144B
+  - title: Try-outs
+    start: 2022-02-21
+    end: 2022-02-26
+    location: TBD
+    uuid: 92691852-7D17-480E-9A2A-27AE66504450
 ---
 
 We will hold our first informational meeting via zoom on Tuesday, Nov. 2nd at 7
