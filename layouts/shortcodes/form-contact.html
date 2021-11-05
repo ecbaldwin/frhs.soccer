@@ -1,0 +1,35 @@
+{{ $.Scratch.Add "labelClasses" "f6 b db mb1 mt3 sans-serif mid-gray" }}
+{{ $.Scratch.Add "inputClasses" "w-100 f5 pv3 ph3 bg-light-gray bn" }}
+
+<form class="black-80 sans-serif" accept-charset="UTF-8" action="{{ .Get "action" }}" method="POST" role="form">
+
+    <label class="{{ $.Scratch.Get "labelClasses" }}" for="Player Name">Player Name</label>
+    <input type="text" id="player_name" name="Player Name" class="{{ $.Scratch.Get "inputClasses" }}"/>
+
+    <label class="{{ $.Scratch.Get "labelClasses" }}" for="Player Grade">Player Grade</label>
+    <input type="text" id="player_grade" name="Player Grade" class="{{ $.Scratch.Get "inputClasses" }}"/>
+
+    <label class="{{ $.Scratch.Get "labelClasses" }}" for="email">Player Email</label>
+    <input type="email" id="email" name="email" class="{{ $.Scratch.Get "inputClasses" }}"  required placeholder=" "  aria-labelledby="email"/>
+    <div class="requirements f6 gray glow i ph3 overflow-hidden">
+      {{ i18n "emailRequiredNote" }}
+    </div>
+
+    <label class="{{ $.Scratch.Get "labelClasses" }}" for="message">Are You a Goal Keeper?</label>
+    <select id="goal_keeper" name="Goal Keeper" class="{{ $.Scratch.Get "inputClasses" }}">
+        <option value="No" selected="true">No</option>
+        <option value="Yes">Yes</option>
+    </select>
+
+    <label class="{{ $.Scratch.Get "labelClasses" }}" for="Parent Name">Parent Name(s)</label>
+    <input type="text" id="parent_name" name="Parent Name" class="{{ $.Scratch.Get "inputClasses" }}"/>
+
+    <label class="{{ $.Scratch.Get "labelClasses" }}" for="Parent Email">Parent Email</label>
+    <input type="email" id="parent_email" name="Parent Email" class="{{ $.Scratch.Get "inputClasses" }}"/>
+
+    <label class="{{ $.Scratch.Get "labelClasses" }}" for="message">{{ i18n "message" }}</label>
+    <textarea id="message" name="message" class="{{ $.Scratch.Get "inputClasses" }} h4" aria-labelledby="message"></textarea>
+
+    <input class="db w-100 mv2 white pa3 bn hover-shadow hover-bg-blck bg-animate bg-black" type="submit" value="{{ i18n "send" }}" />
+
+</form>
