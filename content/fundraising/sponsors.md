@@ -1,6 +1,6 @@
 ---
 title: "FRHS Business Sponsor Packet"
-date: 2019-12-18T12:00:00-07:00
+date: 2021-11-11T21:00:00-07:00
 summary: |
     We rely on the support of local businesses and individuals like you to help
     us offset the cost of our soccer program. Money raised is being used to
@@ -11,7 +11,7 @@ summary: |
 
 To Our Prospective Sponsors,
 
-The Fossil Ridge High School Girls Soccer Team is gearing up for the 2020 Spring
+The Fossil Ridge High School Girls Soccer Team is gearing up for the 2021 Spring
 season, which spans from March through May. We rely on the support of local
 businesses and individuals like you to help us offset the cost of our soccer
 program. Money raised is being used to fund the FRHS Girls Soccer program
@@ -25,15 +25,15 @@ levels of sponsorship.
 $500 sponsor level:
 
 - Banner hung in the stands at all HOME varsity girls’ soccer games for the
-  season OR Sign posted in Gymnasium for 1 year (until Feb 2021) OR both for an
+  season OR Sign posted in Gymnasium for 1 year (until Feb 2023) OR both for an
   extra $100
-- Logo on Girls Soccer website for 1 year (until Feb 2021)
+- Logo on Girls Soccer website for 1 year (until Feb 2023)
 - Logo printed on all Home Game Roster flyers - distributed at all varsity and
   JV games
 
 $250 sponsor level:
 
-- Logo on Girls Soccer website for 1 year (until Feb 2021)
+- Logo on Girls Soccer website for 1 year (until Feb 2023)
 - Logo printed on all Home Game Roster flyers - distributed at all varsity and
   JV games
 
