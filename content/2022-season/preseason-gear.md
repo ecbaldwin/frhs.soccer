@@ -1,5 +1,5 @@
 ---
-date: "2021-11-11T20:00:00-07:00"
+date: "2021-11-16T19:00:00-07:00"
 expirydate: 2021-11-20T00:00:00-07:00
 title: "Preseason Gear"
 featured_image: /images/DSC_1890.JPG
