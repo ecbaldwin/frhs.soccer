@@ -59,7 +59,8 @@ The FRHS Girls soccer coaches have coordinated a series of optional pre-season
 open trainings at Loveland Sports Park and FRHS Turf. These are for anyone
 considering trying out.
 
-Sign-up is required for the drop-ins at Loveland Sports Park. [Sign up here][signup].
+Sign-up is required for the drop-ins at Loveland Sports Park. [Sign up
+here][signup]. Sign -up for at most 2 of the 4 LSP sessions.
 
 <!--more-->
 
