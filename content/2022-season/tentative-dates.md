@@ -1,6 +1,6 @@
 ---
 date: "2021-11-04T19:00:00-06:00"
-expirydate: 2022-02-29T00:00:00-06:00
+expirydate: 2022-01-04T18:00:00-07:00
 title: "Tentative Season Dates"
 featured_image: ../images/DSC_1616.JPG
 events:
