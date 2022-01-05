@@ -105,7 +105,9 @@ Docs & License: https://fullcalendar.io/
                 '</td>' +
                 '<td class="fc-list-item-title ' + theme.getClass('widgetContent') + '">' +
                 '<a' + (url ? ' href="' + core.htmlEscape(url) + '"' : '') + '>' +
-                core.htmlEscape(eventDef.title || '') +
+                core.htmlEscape(eventDef.title || '') + (
+                    eventDef.extendedProps.location ? "<br/>Location: " + eventDef.extendedProps.location : ""
+                   ) +
                 '</a>' +
                 '</td>' +
                 '</tr>';

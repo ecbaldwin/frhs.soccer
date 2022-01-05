@@ -170,7 +170,7 @@
               {{- $page := . -}}
               {{- $e := slice -}}
               {{- range .Params.events -}}
-                  {{- $e = $e | append (dict "title" (printf "%s: %s" $page.Params.title .title) "start" .start "end" .end "uuid" .uuid "url" $page.RelPermalink ) }}
+                  {{- $e = $e | append (dict "title" (printf "%s: %s, Location: %s" $page.Params.title .title .location) "start" .start "end" .end "uuid" .uuid "url" $page.RelPermalink ) }}
               {{- end -}}
               {{- $events = $events | append $e -}}
           {{- end -}}
