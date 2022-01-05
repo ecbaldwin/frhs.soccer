@@ -10,13 +10,13 @@ events:
 ---
 
 The team is holding a [fundraiser at Chipotle][flyer]. 33% of event sales get
-donated. Use code: `EBF66GA`
+donated.
 
 <!--more-->
 
  - Wednesday, January 26th | 4-8pm
  - 2120 E Harmony Rd, Fort Collins, CO, 80528
- - Order online for pickup using the code or show [this flyer][flyer] in
-   restaurant
+ - Order online for pickup using the code `EBF66GA` or show [this flyer][flyer]
+   in restaurant
 
 [flyer]: /files/378390-flyer.pdf
