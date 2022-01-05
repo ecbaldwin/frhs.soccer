@@ -1,6 +1,6 @@
 ---
-date: "2021-12-11T10:00:00-06:00"
-expirydate: 2022-02-18T00:00:00-06:00
+date: "2022-01-04T19:00:00-07:00"
+expirydate: 2022-02-18T00:00:00-07:00
 title: "Drop-In Dates"
 events:
   - title: Drop Ins
@@ -59,6 +59,10 @@ The FRHS Girls soccer coaches have coordinated a series of optional pre-season
 open trainings at Loveland Sports Park and FRHS Turf. These are for anyone
 considering trying out.
 
+Sign-up is required for the drop-ins at Loveland Sports Park. [Sign up here][signup].
+
 <!--more-->
 
 Note the dates, times, and locations. We look forward to seeing. you.
+
+[signup]: https://www.signupgenius.com/go/10c0c4ba8ae2dabf58-lspdrop
