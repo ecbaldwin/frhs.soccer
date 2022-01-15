@@ -34,11 +34,11 @@ events:
       location: Fossil Ridge High School  Stadium Turf
       title: "Soccer: Girls JV  vs. Poudre (Home)"
       uuid: 20220331T160000-24-3-81000228@https://www.frontrangeleague.org
-    - end: 2022-04-05T16:00:00
-      start: 2022-04-05T16:00:00
+    - end: 2022-04-05T17:00:00
+      start: 2022-04-05T17:00:00
       location: Rocky Mountain High School
       title: "Soccer: Girls JV  vs. Rocky Mountain (Away)"
-      uuid: 20220405T160000-24-3-81000232@https://www.frontrangeleague.org
+      uuid: 20220405T170000-24-3-81019825@https://www.frontrangeleague.org
     - end: 2022-04-07T16:00:00
       start: 2022-04-07T16:00:00
       location: Broomfield High School
@@ -59,11 +59,11 @@ events:
       location: Fairview High School
       title: "Soccer: Girls JV  vs. Fairview (Away)"
       uuid: 20220414T160000-24-3-81000248@https://www.frontrangeleague.org
-    - end: 2022-04-19T16:00:00
-      start: 2022-04-19T16:00:00
+    - end: 2022-04-20T16:00:00
+      start: 2022-04-20T16:00:00
       location: Fossil Ridge High School  Stadium Turf
       title: "Soccer: Girls JV  vs. Fort Collins (Home)"
-      uuid: 20220419T160000-24-3-81000252@https://www.frontrangeleague.org
+      uuid: 20220420T160000-24-3-81019176@https://www.frontrangeleague.org
     - end: 2022-04-22T16:00:00
       start: 2022-04-22T16:00:00
       location: Windsor High School
