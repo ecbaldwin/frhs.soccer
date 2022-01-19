@@ -58,11 +58,11 @@ events:
       location: Fairview High School
       title: "Soccer: Girls Varsity  vs. Fairview (Away)"
       uuid: 20220414T180000-24-3-17995175@https://www.frontrangeleague.org
-    - end: 2022-04-20T18:00:00
-      start: 2022-04-20T18:00:00
+    - end: 2022-04-19T19:00:00
+      start: 2022-04-19T19:00:00
       location: Fossil Ridge High School  Stadium Turf
       title: "Soccer: Girls Varsity  vs. Fort Collins (Home)"
-      uuid: 20220420T180000-24-3-171019180@https://www.frontrangeleague.org
+      uuid: 20220419T190000-24-3-171020512@https://www.frontrangeleague.org
     - end: 2022-04-22T18:00:00
       start: 2022-04-22T18:00:00
       location: Windsor High School

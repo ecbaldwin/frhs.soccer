@@ -58,11 +58,11 @@ events:
       location: Fossil Ridge High School  Soccer Grass (North)
       title: "Soccer: Girls C-Team  vs. Fairview (Home)"
       uuid: 20220414T160000-24-3-6701019137@https://www.frontrangeleague.org
-    - end: 2022-04-20T16:00:00
-      start: 2022-04-20T16:00:00
+    - end: 2022-04-18T17:00:00
+      start: 2022-04-18T17:00:00
       location: Fort Collins High School
       title: "Soccer: Girls C-Team  vs. Fort Collins (Away)"
-      uuid: 20220420T160000-24-3-6701019173@https://www.frontrangeleague.org
+      uuid: 20220418T170000-24-3-6701020517@https://www.frontrangeleague.org
     - end: 2022-04-22T16:00:00
       start: 2022-04-22T16:00:00
       location: Fossil Ridge High School  Soccer Grass (North)
