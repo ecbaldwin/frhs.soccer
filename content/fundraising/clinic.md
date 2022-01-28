@@ -1,6 +1,6 @@
 ---
 title: "Youth Soccer Clinic"
-date: 2021-11-15T22:00:00-07:00
+date: 2022-01-28T12:32:02-07:00
 expirydate: 2022-02-06T00:00:00-07:00
 featured_image: ../images/4DF2515E-CE1B-4A24-BBA6-188004983B3C_1_105_c.jpeg
 events:
