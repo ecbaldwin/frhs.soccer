@@ -1,7 +1,7 @@
 ---
 date: "2022-01-04T19:00:00-07:00"
 expirydate: 2022-02-18T00:00:00-07:00
-title: "Drop-In Dates"
+title: "Drop-Ins"
 events:
   - title: Drop Ins (CANCELLED due to weather!)
     start: 2022-01-15T09:30:00
