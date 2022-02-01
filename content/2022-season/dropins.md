@@ -23,12 +23,12 @@ events:
     end: 2022-02-12T11:00:00
     location: Loveland Sports Park
     uuid: 08F72376-D93A-4592-B4B5-B958CB630A7B
-  - title:  Drop Ins
+  - title: (CANCELLED) Drop Ins
     start: 2022-02-01T16:30:00
     end: 2022-02-01T18:00:00
     location: Fossil Turf
     uuid: 4054F12C-A784-4EC0-9238-1E2E88AB54E3
-  - title:  Drop Ins
+  - title: (CANCELLED) Drop Ins
     start: 2022-02-03T16:30:00
     end: 2022-02-03T18:00:00
     location: Fossil Turf
