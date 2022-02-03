@@ -81,7 +81,7 @@ events:
 # end events
 ---
 
-The C-Team schedule does not appear to be available yet.
+The C-Team schedule.
 
 <!--more-->
 
