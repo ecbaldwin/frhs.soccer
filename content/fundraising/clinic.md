@@ -52,13 +52,11 @@ district. So, be sure to tell your friends!
 
 Use our [contact page] if you have questions.
 
-## Parents and Players
+## High School Parents and Players
 
-Player's and parents please [click here to sign up to volunteer][signup]. Try to
-leave the earlier times for players who have indoor games to get to that
-evening.
+High School Players and their parents please [click here to sign up to volunteer][signup].
 
-[FRHS Gym]: https://goo.gl/maps/kDu1omU5THFzXEAy6
+[FRHS Gym]: https://goo.gl/maps/974UupxYUyyNMGJP8
 [Youth-Soccer-1-3]: https://psdschools.schoolpay.com/link/FRHSYouthSoccer1st-3rd21-22
 [Youth-Soccer-4-6]: https://psdschools.schoolpay.com/link/FRHSYouthSoccer4th-6th21-22
 [paper form]: /files/2022-FRHS-Soccer-Clinic-Registration.pdf
