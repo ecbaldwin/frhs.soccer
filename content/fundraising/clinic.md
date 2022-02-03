@@ -56,7 +56,7 @@ Use our [contact page] if you have questions.
 
 High School Players and their parents please [click here to sign up to volunteer][signup].
 
-[FRHS Gym]: https://goo.gl/maps/974UupxYUyyNMGJP8
+[FRHS Gym]: https://goo.gl/maps/LWsFbvNKXSwjSfgP9
 [Youth-Soccer-1-3]: https://psdschools.schoolpay.com/link/FRHSYouthSoccer1st-3rd21-22
 [Youth-Soccer-4-6]: https://psdschools.schoolpay.com/link/FRHSYouthSoccer4th-6th21-22
 [paper form]: /files/2022-FRHS-Soccer-Clinic-Registration.pdf
