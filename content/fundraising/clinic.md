@@ -52,7 +52,7 @@ district. So, be sure to tell your friends!
 
 Use our [contact page] if you have questions.
 
-## High School Parents and Players
+## HS Parents and Players
 
 High School Players and their parents please [click here to sign up to volunteer][signup].
 
