@@ -33,7 +33,7 @@ events:
     end: 2022-02-03T18:00:00
     location: Fossil Turf
     uuid: 9D01EF21-AB8D-4F89-A057-19FA006D80FC
-  - title:  Drop Ins
+  - title:  (CANCELLED) Drop Ins
     start: 2022-02-08T16:30:00
     end: 2022-02-08T18:00:00
     location: Fossil Turf
