@@ -1,7 +1,7 @@
 ---
-date: "2022-01-04T19:00:00-07:00"
-expirydate: 2022-02-18T00:00:00-07:00
-title: "Drop-Ins"
+date: 2022-02-12T13:58:24-07:00
+expirydate: 2022-02-25T00:00:00-07:00
+title: "Preseason"
 events:
   - title: Drop Ins (CANCELLED due to weather!)
     start: 2022-01-15T09:30:00
@@ -18,11 +18,6 @@ events:
     end: 2022-01-29T11:00
     location: Loveland Sports Park
     uuid: 39DD667C-8D28-418A-95F9-5FA51B4C60BA
-  - title:  Drop Ins
-    start: 2022-02-12T09:30:00
-    end: 2022-02-12T11:00:00
-    location: Loveland Sports Park
-    uuid: 08F72376-D93A-4592-B4B5-B958CB630A7B
   - title: (CANCELLED) Drop Ins
     start: 2022-02-01T16:30:00
     end: 2022-02-01T18:00:00
@@ -38,29 +33,58 @@ events:
     end: 2022-02-08T18:00:00
     location: Fossil Turf
     uuid: 4FD29C3E-BB52-4911-889C-6BC48CCACA4D
-  - title:  Drop Ins
+  - title: Drop Ins
     start: 2022-02-10T16:30:00
     end: 2022-02-10T18:00:00
     location: Fossil Turf
     uuid: 3E71255C-CD9E-4658-9802-735A04041CA8
-  - title:  Drop Ins
+  - title: Drop Ins (CANCELLED)
+    start: 2022-02-12T09:30:00
+    end: 2022-02-12T11:00:00
+    location: Loveland Sports Park
+    uuid: 08F72376-D93A-4592-B4B5-B958CB630A7B
+  - title: Junior and Sophomore ONLY
     start: 2022-02-15T16:30:00
     end: 2022-02-15T18:00:00
     location: Fossil Turf
     uuid: 1D0E2A8A-A4AC-462B-A8E3-7CC4D36A13FF
-  - title:  Drop Ins
+  - title: Senior and Freshman ONLY
     start: 2022-02-17T16:30:00
     end: 2022-02-17T18:00:00
     location: Fossil Turf
     uuid: 05455EF8-65B2-41E3-8DCE-422FA76F85F0
+  - title: Senior and Junior
+    start: 2022-02-21T15:00:00
+    end: 2022-02-21T16:30:00
+    location: Fossil Turf
+    uuid: 8908BFCD-0609-491A-8348-2E4B220A32F3
+  - title: Sophomore and Freshman
+    start: 2022-02-21T16:30:00
+    end: 2022-02-21T18:00:00
+    location: Fossil Turf
+    uuid: 897BAC5E-14E9-4BCF-A2D5-253A166AC5F8
+  - title: All Players
+    start: 2022-02-22T16:30:00
+    end: 2022-02-22T18:00:00
+    location: Fossil Turf
+    uuid: E483F357-EB87-4469-AA26-5C9B811FAAF5
+  - title: All Players
+    start: 2022-02-23T16:30:00
+    end: 2022-02-23T18:00:00
+    location: Fossil Turf
+    uuid: 64D1B540-0549-4D01-8964-A9516FCED936
+  - title: All Players
+    start: 2022-02-24T16:30:00
+    end: 2022-02-24T18:00:00
+    location: Fossil Turf
+    uuid: F554667F-DE86-41EA-99B7-F0F9655B0B27
 ---
 
 The FRHS Girls soccer coaches have coordinated a series of optional pre-season
 open trainings at Loveland Sports Park and FRHS Turf. These are for anyone
 considering trying out.
 
-Sign-up is required for the drop-ins at Loveland Sports Park. [Sign up
-here][signup]. Sign -up for at most 2 of the 4 LSP sessions.
+Sign-up is required. [Sign up here][signup].
 
 <!--more-->
 
