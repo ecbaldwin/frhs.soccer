@@ -53,16 +53,11 @@ events:
     end: 2022-02-17T18:00:00
     location: Fossil Turf
     uuid: 05455EF8-65B2-41E3-8DCE-422FA76F85F0
-  - title: Senior and Junior
-    start: 2022-02-21T15:00:00
-    end: 2022-02-21T16:30:00
-    location: Fossil Turf
-    uuid: 8908BFCD-0609-491A-8348-2E4B220A32F3
-  - title: Sophomore and Freshman
-    start: 2022-02-21T16:30:00
-    end: 2022-02-21T18:00:00
-    location: Fossil Turf
-    uuid: 897BAC5E-14E9-4BCF-A2D5-253A166AC5F8
+  - title: CHANGED! All Ages
+    start: 2022-02-21T14:00:00
+    end: 2022-02-21T16:00:00
+    location: Indoors, Basketball Courts
+    uuid: CE78661F-4E29-4982-B8D8-9DA993314000
   - title: All Players
     start: 2022-02-22T16:30:00
     end: 2022-02-22T18:00:00
