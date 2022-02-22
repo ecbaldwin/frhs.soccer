@@ -58,7 +58,7 @@ events:
     end: 2022-02-21T16:00:00
     location: Indoors, Basketball Courts
     uuid: CE78661F-4E29-4982-B8D8-9DA993314000
-  - title: All Players
+  - title: CANCELLED! All Players
     start: 2022-02-22T16:30:00
     end: 2022-02-22T18:00:00
     location: Fossil Turf
