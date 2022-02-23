@@ -68,7 +68,7 @@ events:
     end: 2022-02-23T18:00:00
     location: Fossil Turf
     uuid: 64D1B540-0549-4D01-8964-A9516FCED936
-  - title: All Players
+  - title: CANCELLED! All Players
     start: 2022-02-24T16:30:00
     end: 2022-02-24T18:00:00
     location: Fossil Turf
