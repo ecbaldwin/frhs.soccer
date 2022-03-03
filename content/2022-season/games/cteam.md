@@ -8,11 +8,6 @@ events:
       location: Arvada West High School
       title: "Soccer: Girls C-Team  vs. Arvada West (Away)"
       uuid: 20220312T130000-24-3-6701019097@https://www.frontrangeleague.org
-    - end: 2022-03-22T16:00:00
-      start: 2022-03-22T16:00:00
-      location: Holy Family High School
-      title: "Soccer: Girls C-Team  vs. Holy Family (Away)"
-      uuid: 20220322T160000-24-3-6701019101@https://www.frontrangeleague.org
     - end: 2022-03-24T16:00:00
       start: 2022-03-24T16:00:00
       location: Fossil Ridge High School  Soccer Grass (North)
@@ -23,16 +18,6 @@ events:
       location: Grandview High School
       title: "Soccer: Girls C-Team  vs. Grandview (Away)"
       uuid: 20220326T130000-24-3-6701019109@https://www.frontrangeleague.org
-    - end: 2022-03-29T16:00:00
-      start: 2022-03-29T16:00:00
-      location: Fossil Ridge High School  Soccer Grass (North)
-      title: "Soccer: Girls C-Team  vs. Mountain Range (Home)"
-      uuid: 20220329T160000-24-3-6701019113@https://www.frontrangeleague.org
-    - end: 2022-03-31T16:00:00
-      start: 2022-03-31T16:00:00
-      location: Poudre High School
-      title: "Soccer: Girls C-Team  vs. Poudre (Away)"
-      uuid: 20220331T160000-24-3-6701019117@https://www.frontrangeleague.org
     - end: 2022-04-05T16:30:00
       start: 2022-04-05T16:30:00
       location: Fossil Ridge High School  Soccer Grass (North)
@@ -58,21 +43,11 @@ events:
       location: Fossil Ridge High School  Soccer Grass (North)
       title: "Soccer: Girls C-Team  vs. Fairview (Home)"
       uuid: 20220414T160000-24-3-6701019137@https://www.frontrangeleague.org
-    - end: 2022-04-18T17:00:00
-      start: 2022-04-18T17:00:00
-      location: Fort Collins High School
-      title: "Soccer: Girls C-Team  vs. Fort Collins (Away)"
-      uuid: 20220418T170000-24-3-6701020517@https://www.frontrangeleague.org
     - end: 2022-04-22T16:00:00
       start: 2022-04-22T16:00:00
       location: Fossil Ridge High School  Soccer Grass (North)
       title: "Soccer: Girls C-Team  vs. Windsor (Home)"
       uuid: 20220422T160000-24-3-6701019145@https://www.frontrangeleague.org
-    - end: 2022-04-26T16:00:00
-      start: 2022-04-26T16:00:00
-      location: Fossil Ridge High School  Soccer Grass (North)
-      title: "Soccer: Girls C-Team  vs. Horizon (Home)"
-      uuid: 20220426T160000-24-3-6701019149@https://www.frontrangeleague.org
     - end: 2022-05-03T16:00:00
       start: 2022-05-03T16:00:00
       location: Monarch High School
