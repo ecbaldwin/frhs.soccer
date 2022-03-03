@@ -23,9 +23,9 @@ events:
     end: 2022-03-03T18:00:00
     location: FRHS
     uuid: 4E33E191-2B73-46E9-97CC-0FDC62572F0D
-  - title: Fri.
-    start: 2022-03-04T16:30:00
-    end: 2022-03-04T18:00:00
+  - title: TIME CHANGE! Fri.
+    start: 2022-03-04T07:30:00
+    end: 2022-03-04T08:45:00
     location: FRHS
     uuid: 3DAD26F6-B9E5-426D-B8F2-C6F4C7033C7F
 ---
