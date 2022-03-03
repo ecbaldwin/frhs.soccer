@@ -38,6 +38,11 @@ events:
       location: Rocky Mountain High School
       title: "Soccer: Girls Varsity  vs. Rocky Mountain (Away)"
       uuid: 20220405T190000-24-3-171019820@https://www.frontrangeleague.org
+    - end: 2022-04-05T19:00:00
+      start: 2022-04-05T19:00:00
+      location: French Field @ Rocky Mountain
+      title: "Soccer: Girls Varsity  vs. Rocky Mountain (Away)"
+      uuid: 20220405T190000-24-3-171020089@https://www.frontrangeleague.org
     - end: 2022-04-07T18:00:00
       start: 2022-04-07T18:00:00
       location: Broomfield High School
@@ -48,6 +53,11 @@ events:
       location: Fossil Ridge High School  Stadium Turf
       title: "Soccer: Girls Varsity  vs. Legacy (Home)"
       uuid: 20220409T150000-24-3-17997343@https://www.frontrangeleague.org
+    - end: 2022-04-11T19:00:00
+      start: 2022-04-11T19:00:00
+      location: Fossil Ridge High School  Stadium Turf
+      title: "Soccer: Girls Varsity  vs. Legacy (Home)"
+      uuid: 20220411T190000-24-3-171033975@https://www.frontrangeleague.org
     - end: 2022-04-12T18:00:00
       start: 2022-04-12T18:00:00
       location: Fossil Ridge High School  Stadium Turf
