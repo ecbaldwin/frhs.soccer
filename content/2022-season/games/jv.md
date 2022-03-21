@@ -44,21 +44,21 @@ events:
       location: Rocky Mountain High School (Grass Field)
       title: "Soccer: Girls JV  vs. Rocky Mountain (Away)"
       uuid: 20220405T170000-24-3-81020093@https://www.frontrangeleague.org
-    - end: 2022-04-07T16:00:00
-      start: 2022-04-07T16:00:00
+    - end: 2022-04-07T16:30:00
+      start: 2022-04-07T16:30:00
       location: Broomfield High School
       title: "Soccer: Girls JV  vs. Broomfield High School (Away)"
-      uuid: 20220407T160000-24-3-81000236@https://www.frontrangeleague.org
+      uuid: 20220407T163000-24-3-81037276@https://www.frontrangeleague.org
     - end: 2022-04-09T13:00:00
       start: 2022-04-09T13:00:00
       location: Fossil Ridge High School  Stadium Turf
       title: "Soccer: Girls JV  vs. Legacy (Home)"
-      uuid: 20220409T130000-24-3-81000240@https://www.frontrangeleague.org
+      uuid: 20220409T130000-24-3-81037280@https://www.frontrangeleague.org
     - end: 2022-04-12T16:00:00
       start: 2022-04-12T16:00:00
       location: Fossil Ridge High School  Stadium Turf
       title: "Soccer: Girls JV  vs. Boulder (Home)"
-      uuid: 20220412T160000-24-3-81000244@https://www.frontrangeleague.org
+      uuid: 20220412T160000-24-3-81037288@https://www.frontrangeleague.org
     - end: 2022-04-14T16:00:00
       start: 2022-04-14T16:00:00
       location: Fairview High School
