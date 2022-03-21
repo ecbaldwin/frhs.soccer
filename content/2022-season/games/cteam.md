@@ -27,22 +27,27 @@ events:
       start: 2022-04-07T16:00:00
       location: Fossil Ridge High School  Soccer Grass (North)
       title: "Soccer: Girls C-Team  vs. Broomfield High School (Home)"
-      uuid: 20220407T160000-24-3-6701019125@https://www.frontrangeleague.org
-    - end: 2022-04-09T13:00:00
-      start: 2022-04-09T13:00:00
+      uuid: 20220407T160000-24-3-6701037268@https://www.frontrangeleague.org
+    - end: 2022-04-09T13:30:00
+      start: 2022-04-09T13:30:00
       location: Legacy High School
       title: "Soccer: Girls C-Team  vs. Legacy (Away)"
-      uuid: 20220409T130000-24-3-6701019129@https://www.frontrangeleague.org
-    - end: 2022-04-12T16:00:00
-      start: 2022-04-12T16:00:00
+      uuid: 20220409T133000-24-3-6701037284@https://www.frontrangeleague.org
+    - end: 2022-04-12T16:30:00
+      start: 2022-04-12T16:30:00
       location: Boulder High School
       title: "Soccer: Girls C-Team  vs. Boulder (Away)"
-      uuid: 20220412T160000-24-3-6701019133@https://www.frontrangeleague.org
+      uuid: 20220412T163000-24-3-6701037292@https://www.frontrangeleague.org
     - end: 2022-04-14T16:00:00
       start: 2022-04-14T16:00:00
       location: Fossil Ridge High School  Soccer Grass (North)
       title: "Soccer: Girls C-Team  vs. Fairview (Home)"
       uuid: 20220414T160000-24-3-6701019137@https://www.frontrangeleague.org
+    - end: 2022-04-18T17:00:00
+      start: 2022-04-18T17:00:00
+      location: Fort Collins High School
+      title: "Soccer: Girls C-Team  vs. Fort Collins (Away)"
+      uuid: 20220418T170000-24-3-6701037296@https://www.frontrangeleague.org
     - end: 2022-04-22T16:00:00
       start: 2022-04-22T16:00:00
       location: Fossil Ridge High School  Soccer Grass (North)
