@@ -1,7 +1,7 @@
 ---
 title: "Los Chingones"
 date: 2022-03-21T20:49:48-06:00
-expirydate: 2022-03-34T00:00:00-06:00
+expirydate: 2022-03-24T00:00:00-06:00
 events:
   - title: Fundraiser
     start: 2022-03-23T11:00:00-06:00
