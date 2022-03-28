@@ -6,7 +6,7 @@ events:
   - title: Fundraiser
     start: 2022-03-30T11:00:00-06:00
     end: 2022-03-30T21:00:00-06:00
-    location: Modern Market Eatery
+    location: Smashburger
     uuid: 9E50CFB5-1FCC-4734-A882-1C09E3A79105
 ---
 
