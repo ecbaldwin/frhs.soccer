@@ -18,6 +18,11 @@ events:
       location: Grandview High School
       title: "Soccer: Girls C-Team  vs. Grandview (Away)"
       uuid: 20220326T130000-24-3-6701019109@https://www.frontrangeleague.org
+    - end: 2022-04-01T16:30:00
+      start: 2022-04-01T16:30:00
+      location: Severance High School
+      title: "Soccer: Girls C-Team  vs. Severance (Away)"
+      uuid: 20220401T163000-24-3-6701040567@https://www.frontrangeleague.org
     - end: 2022-04-05T16:30:00
       start: 2022-04-05T16:30:00
       location: Fossil Ridge High School  Soccer Grass (North)

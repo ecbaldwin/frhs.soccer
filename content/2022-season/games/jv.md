@@ -36,14 +36,9 @@ events:
       uuid: 20220331T160000-24-3-81000228@https://www.frontrangeleague.org
     - end: 2022-04-05T17:00:00
       start: 2022-04-05T17:00:00
-      location: Rocky Mountain High School
+      location: French Field @ Rocky Mountain
       title: "Soccer: Girls JV  vs. Rocky Mountain (Away)"
-      uuid: 20220405T170000-24-3-81019825@https://www.frontrangeleague.org
-    - end: 2022-04-05T17:00:00
-      start: 2022-04-05T17:00:00
-      location: Rocky Mountain High School (Grass Field)
-      title: "Soccer: Girls JV  vs. Rocky Mountain (Away)"
-      uuid: 20220405T170000-24-3-81020093@https://www.frontrangeleague.org
+      uuid: 20220405T170000-24-3-81039935@https://www.frontrangeleague.org
     - end: 2022-04-07T16:30:00
       start: 2022-04-07T16:30:00
       location: Broomfield High School
