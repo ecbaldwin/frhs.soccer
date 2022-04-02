@@ -86,8 +86,8 @@ The junior varsity schedule.
 
 <!--more-->
 
-* Near the bottom, on the left, is a link to [Athletics Calendar][athletic
-  schedules]
+* Near the bottom, on the left, is a link to [Athletics
+  Calendar][athletic-schedules]
     * On the right-hand side, click **View Schedules**
     * Check the box for the teams you want to see
     * Click **View**
@@ -100,4 +100,4 @@ not use the "Login" button below the "Notify Me" button because that appears to
 be something different*
 
 [frh-schedules]: https://frh.psdschools.org/about-our-school/calendars-schedules
-[athletic schedules]: http://www.frontrangeleague.org/g5-bin/client.cgi?G5genie=812&school_id=5
+[athletic-schedules]: http://www.frontrangeleague.org/g5-bin/client.cgi?G5genie=812&school_id=5
