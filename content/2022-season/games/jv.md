@@ -44,10 +44,15 @@ events:
       location: Broomfield High School
       title: "Soccer: Girls JV  vs. Broomfield High School (Away)"
       uuid: 20220407T163000-24-3-81037276@https://www.frontrangeleague.org
+    - end: 2022-04-09T11:00:00
+      start: 2022-04-09T11:00:00
+      location: Fossil Ridge High School  Stadium Turf
+      title: "Soccer: Girls JV  (Rescheduled from 04-09-22) vs. Legacy (Home)"
+      uuid: 20220409T110000-24-3-81042279@https://www.frontrangeleague.org
     - end: 2022-04-09T13:00:00
       start: 2022-04-09T13:00:00
       location: Fossil Ridge High School  Stadium Turf
-      title: "Soccer: Girls JV  vs. Legacy (Home)"
+      title: "Soccer: Girls JV  (Rescheduled to 04-09-22) vs. Legacy (Away)"
       uuid: 20220409T130000-24-3-81037280@https://www.frontrangeleague.org
     - end: 2022-04-12T16:00:00
       start: 2022-04-12T16:00:00
