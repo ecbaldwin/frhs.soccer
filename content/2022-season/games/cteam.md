@@ -38,11 +38,6 @@ events:
       location: Legacy High School
       title: "Soccer: Girls C-Team  vs. Legacy (Away)"
       uuid: 20220409T133000-24-3-6701037284@https://www.frontrangeleague.org
-    - end: 2022-04-12T16:30:00
-      start: 2022-04-12T16:30:00
-      location: Boulder High School
-      title: "Soccer: Girls C-Team  vs. Boulder (Away)"
-      uuid: 20220412T163000-24-3-6701037292@https://www.frontrangeleague.org
     - end: 2022-04-14T16:00:00
       start: 2022-04-14T16:00:00
       location: Fossil Ridge High School  Soccer Grass (North)
@@ -53,11 +48,21 @@ events:
       location: Fort Collins High School
       title: "Soccer: Girls C-Team  vs. Fort Collins (Away)"
       uuid: 20220418T170000-24-3-6701037296@https://www.frontrangeleague.org
+    - end: 2022-04-20T16:30:00
+      start: 2022-04-20T16:30:00
+      location: Boulder High School
+      title: "Soccer: Girls C-Team  vs. Boulder (Away)"
+      uuid: 20220420T163000-24-3-6701045419@https://www.frontrangeleague.org
     - end: 2022-04-22T16:00:00
       start: 2022-04-22T16:00:00
       location: Fossil Ridge High School  Soccer Grass (North)
       title: "Soccer: Girls C-Team  vs. Windsor (Home)"
       uuid: 20220422T160000-24-3-6701019145@https://www.frontrangeleague.org
+    - end: 2022-05-02T00:00:00
+      start: 2022-05-02T00:00:00
+      location: Fossil Ridge High School  Soccer Grass (North)
+      title: "Soccer: Girls C-Team  vs. Severance (Home)"
+      uuid: 20220502T000000-24-3-6701043959@https://www.frontrangeleague.org
     - end: 2022-05-03T16:00:00
       start: 2022-05-03T16:00:00
       location: Monarch High School
