@@ -78,11 +78,6 @@ events:
       location: Fossil Ridge High School  Stadium Turf
       title: "Soccer: Girls Varsity  vs. Monarch (Home)"
       uuid: 20220504T180000-24-3-171016209@https://www.frontrangeleague.org
-    - end: 2022-05-06T15:00:00
-      start: 2022-05-06T15:00:00
-      location: Fossil Ridge High School  Stadium Turf
-      title: "Soccer: Girls Varsity  vs. Legacy (Home)"
-      uuid: 20220506T150000-24-3-171040911@https://www.frontrangeleague.org
     - end: 2022-05-10T00:00:00
       start: 2022-05-10T00:00:00
       location: TBA

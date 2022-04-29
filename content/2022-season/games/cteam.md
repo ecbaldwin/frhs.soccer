@@ -58,11 +58,11 @@ events:
       location: Fossil Ridge High School  Soccer Grass (North)
       title: "Soccer: Girls C-Team  (Cancelled) vs. Windsor (Away)"
       uuid: 20220422T160000-24-3-6701046323@https://www.frontrangeleague.org
-    - end: 2022-05-02T00:00:00
-      start: 2022-05-02T00:00:00
+    - end: 2022-05-02T16:30:00
+      start: 2022-05-02T16:30:00
       location: Fossil Ridge High School  Soccer Grass (North)
       title: "Soccer: Girls C-Team  vs. Severance (Home)"
-      uuid: 20220502T000000-24-3-6701043959@https://www.frontrangeleague.org
+      uuid: 20220502T163000-24-3-6701052657@https://www.frontrangeleague.org
     - end: 2022-05-03T16:00:00
       start: 2022-05-03T16:00:00
       location: Monarch High School
