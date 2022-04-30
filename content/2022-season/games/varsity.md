@@ -73,11 +73,11 @@ events:
       location: Horizon High School
       title: "Soccer: Girls Varsity  vs. Horizon (Away)"
       uuid: 20220426T180000-24-3-17995194@https://www.frontrangeleague.org
-    - end: 2022-05-04T18:00:00
-      start: 2022-05-04T18:00:00
+    - end: 2022-05-04T18:15:00
+      start: 2022-05-04T18:15:00
       location: Fossil Ridge High School  Stadium Turf
       title: "Soccer: Girls Varsity  vs. Monarch (Home)"
-      uuid: 20220504T180000-24-3-171016209@https://www.frontrangeleague.org
+      uuid: 20220504T181500-24-3-171052797@https://www.frontrangeleague.org
     - end: 2022-05-10T00:00:00
       start: 2022-05-10T00:00:00
       location: TBA
