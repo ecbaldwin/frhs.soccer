@@ -1,7 +1,7 @@
 ---
-date: "2021-10-13T19:30:00-06:00"
-expirydate: 2022-05-28T00:00:00-06:00
-title: "2022 Season"
+date: "2022-05-28T18:00:00-06:00"
+expirydate: 2023-08-01T00:00:00-06:00
+title: "2023 Season"
 menu: main
 featured_image: ../images/IMG_6421.JPG
 ---
