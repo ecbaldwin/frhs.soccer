@@ -1,25 +1,39 @@
 ---
 title: "Youth Soccer Clinic"
-date: 2022-01-28T12:32:02-07:00
-expirydate: 2022-02-06T00:00:00-07:00
+date: 2022-11-20T14:00:00-07:00
+expirydate: 2023-02-26T00:00:00-07:00
 featured_image: ../images/4DF2515E-CE1B-4A24-BBA6-188004983B3C_1_105_c.jpeg
 events:
-  - title: 1st - 3rd grades
-    start: 2022-02-05T10:30:00
-    end: 2022-02-05T12:00:00
-    uuid: D1DCE820-9090-4B0B-86CF-68CAF81434D8
-  - title: 4th - 6th grades
-    start: 2022-02-05T12:30:00
-    end: 2022-02-05T14:00:00
-    uuid: E0159F96-7E6A-4FF9-9CF6-3616467F78BA
+  - title: Kindergarten and 1st Grade
+    start: 2023-02-25T16:00:00
+    end: 2023-02-25T17:00:00
+    uuid: 5A9B6AE1-3BE1-42CB-A427-1F1E8C28FB95
+  - title: 1st - 5th Grades
+    start: 2023-02-25T16:30:00
+    end: 2023-02-25T18:30:00
+    uuid: 9044BF17-F569-43A3-91D5-13E8AC3E53CC
 ---
 
-On February 5th, the players will provide fundamental training and skills
-sessions in a safe, healthy, and fun learning environment for all ability
-levels, from 1st through 6th grade boys and girls!
+Join the Fossil Ridge High School Girls Soccer Team for a fun training camp!
 
 <!--more-->
 
+On February 25th, the players will provide fundamental training and skills
+sessions in a safe, healthy, and fun learning environment for all ability
+levels, from 1st through 6th grade boys and girls!
+
+Camp will be held indoors! Please wear tennis shoes- no cleats. Please bring a
+water bottle. No need to bring a soccer ball
+
+The cost is $45 -- Pizza Dinner will be served.
+
+A mini-camp will be available for younger kids -- Kindergarten and 1st Grade.
+The cost for the mini-cam, is $20.
+
+** 1st graders can choose to participate in our mini camp or our regular
+training clinic **
+
+<!--
 Online registration uses **SchoolPay** to register and pay with credit card. A
 processing fee will be added. There is **limited space**, register early.
 
@@ -35,6 +49,8 @@ print and mail in with payment.
 This activity is **not limited to PSD students**. Kids can be from any school
 district. So, be sure to tell your friends!
 
+-->
+
 ## Details
 
 - ***Location*** is the [FRHS Gym][FRHS Gym]: 5400 Ziegler Road Fort Collins
@@ -42,11 +58,10 @@ district. So, be sure to tell your friends!
     The gym is on the south side of the school. Use the parking area that is
     east of the main entrance circle.
 
-- ***Cost*** is $25
+- ***Cost*** is $45 ($20 for the mini-camp)
 - Wear tennis shoes/flats (no cleats)
 - Bring a water bottle
 - Do not bring balls
-- ***Face masks are REQUIRED for everyone participating in this event per Larimer County Department of Health.***
 
 **100% of the proceeds will be used to fundraise for the FRHS girls soccer team.**
 
@@ -57,8 +72,6 @@ Use our [contact page] if you have questions.
 High School Players and their parents please [click here to sign up to volunteer][signup].
 
 [FRHS Gym]: https://goo.gl/maps/LWsFbvNKXSwjSfgP9
-[Youth-Soccer-1-3]: https://psdschools.schoolpay.com/link/FRHSYouthSoccer1st-3rd21-22
-[Youth-Soccer-4-6]: https://psdschools.schoolpay.com/link/FRHSYouthSoccer4th-6th21-22
+[flyer]: /files/2023-FRHS-Soccer-Clinic-Flyer.pdf
 [paper form]: /files/2022-FRHS-Soccer-Clinic-Registration.pdf
 [contact page]: /about/#contact
-[signup]: https://www.signupgenius.com/go/70A054CABAA2DA31-youth
