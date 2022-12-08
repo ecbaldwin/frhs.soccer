@@ -14,13 +14,12 @@ events:
     uuid: 9044BF17-F569-43A3-91D5-13E8AC3E53CC
 ---
 
-Join the Fossil Ridge High School Girls Soccer Team for a fun training camp!
+Join the FRHS Girls Soccer Team for a fun training camp on Saturday, February
+25, 2023! They will provide fundamental training and skills sessions in a safe,
+healthy, and fun learning environment for all ability levels, from Kindergarten
+to 5th grade boys and girls!
 
 <!--more-->
-
-On Saturday, February 25, 2023, the players will provide fundamental training
-and skills sessions in a safe, healthy, and fun learning environment for all
-ability levels, from Kindergarten to 5th grade boys and girls!
 
 Camp will be held indoors! Please wear tennis shoes- no cleats. Please bring a
 water bottle. No need to bring a soccer ball
@@ -71,3 +70,4 @@ High School Players and their parents please [click here to sign up to volunteer
 [contact page]: /about/#contact
 [school pay]: https://psdschools.schoolpay.com/link/Kids-Soccer-Clinic-1st-5th-graders
 [school pay mini]: https://psdschools.schoolpay.com/link/Kids-Soccer-Mini-Camp-K-1st-Graders
+[signup]: https://www.signupgenius.com/go/70a054cabaa2da31-clinic
