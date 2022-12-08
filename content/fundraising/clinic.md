@@ -33,23 +33,17 @@ The cost for the mini-camp is $20.
 ** 1st graders can choose to participate in our mini camp or our regular
 training clinic **
 
-<!--
 Online registration uses **SchoolPay** to register and pay with credit card. A
-processing fee will be added. There is **limited space**, register early.
+processing fee will be added. There is **limited space** so register early.
 
-- For 1st to 3rd grade youth, [click here to register][Youth-Soccer-1-3]
-- For 4th to 6th grade youth, [click here to register][Youth-Soccer-4-6]
+- For 1st to 5th grade youth, [click here to register][school pay]
+- For Kindergarten to 1st grade youth, [click here to register][school pay mini]
 
 If SchoolPay isn't working correctly, please use our [contact page] to get in
 touch and we'll help you out.
 
-If you need to pay with a check, [click here][paper form] to download a form that you can
-print and mail in with payment.
-
 This activity is **not limited to PSD students**. Kids can be from any school
 district. So, be sure to tell your friends!
-
--->
 
 ## Details
 
@@ -75,3 +69,5 @@ High School Players and their parents please [click here to sign up to volunteer
 [flyer]: /files/2023-FRHS-Soccer-Clinic-Flyer.pdf
 [paper form]: /files/2022-FRHS-Soccer-Clinic-Registration.pdf
 [contact page]: /about/#contact
+[school pay]: https://psdschools.schoolpay.com/link/Kids-Soccer-Clinic-1st-5th-graders
+[school pay mini]: https://psdschools.schoolpay.com/link/Kids-Soccer-Mini-Camp-K-1st-Graders
