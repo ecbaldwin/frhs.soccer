@@ -71,3 +71,4 @@ High School Players and their parents please [click here to sign up to volunteer
 [contact page]: /about/#contact
 [school pay]: https://psdschools.schoolpay.com/link/Kids-Soccer-Clinic-1st-5th-graders
 [school pay mini]: https://psdschools.schoolpay.com/link/Kids-Soccer-Mini-Camp-K-1st-Graders
+[signup]: https://www.signupgenius.com/go/70a054cabaa2da31-clinic
