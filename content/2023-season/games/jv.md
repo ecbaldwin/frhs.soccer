@@ -19,11 +19,11 @@ events:
       location: Fossil Ridge High School
       title: "Soccer: Girls JV  vs. Windsor (Home)"
       uuid: 20230324T170000-24-3-81374826@https://www.frontrangeleague.org
-    - end: 2023-03-30T00:00:00
-      start: 2023-03-30T00:00:00
+    - end: 2023-03-30T16:30:00
+      start: 2023-03-30T16:30:00
       location: Grandview High School
       title: "Soccer: Girls JV  vs. Grandview (Away)"
-      uuid: 20230330T000000-24-3-81362293@https://www.frontrangeleague.org
+      uuid: 20230330T163000-24-3-81362293@https://www.frontrangeleague.org
     - end: 2023-04-01T09:00:00
       start: 2023-04-01T09:00:00
       location: Cherry Creek High School
