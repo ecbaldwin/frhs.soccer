@@ -18,11 +18,11 @@ events:
       location: Fossil Ridge High School
       title: "Soccer: Girls Varsity  vs. Windsor (Home)"
       uuid: 20230324T190000-24-3-171374822@https://www.frontrangeleague.org
-    - end: 2023-03-30T00:00:00
-      start: 2023-03-30T00:00:00
-      location: Grandview High School
+    - end: 2023-03-30T18:00:00
+      start: 2023-03-30T18:00:00
+      location: Legacy Stadium
       title: "Soccer: Girls Varsity  vs. Grandview (Away)"
-      uuid: 20230330T000000-24-3-171361681@https://www.frontrangeleague.org
+      uuid: 20230330T180000-24-3-171361681@https://www.frontrangeleague.org
     - end: 2023-04-01T11:00:00
       start: 2023-04-01T11:00:00
       location: Cherry Creek High School
