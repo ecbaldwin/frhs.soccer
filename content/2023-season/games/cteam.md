@@ -38,11 +38,11 @@ events:
       location: Fossil Ridge High School  Soccer Grass (North)
       title: "Soccer: Girls C-Team  vs. Prairie View (Home)"
       uuid: 20230413T160000-24-3-6701362369@https://www.frontrangeleague.org
-    - end: 2023-04-18T16:00:00
-      start: 2023-04-18T16:00:00
+    - end: 2023-04-18T16:30:00
+      start: 2023-04-18T16:30:00
       location: Rocky Mountain High School
       title: "Soccer: Girls C-Team  vs. Rocky Mountain (Away)"
-      uuid: 20230418T160000-24-3-6701362373@https://www.frontrangeleague.org
+      uuid: 20230418T163000-24-3-6701362373@https://www.frontrangeleague.org
     - end: 2023-04-20T16:00:00
       start: 2023-04-20T16:00:00
       location: Fossil Ridge High School  Soccer Grass (North)
@@ -60,8 +60,8 @@ events:
       uuid: 20230427T160000-24-3-6701362385@https://www.frontrangeleague.org
     - end: 2023-04-29T10:00:00
       start: 2023-04-29T10:00:00
-      location: Pine Creek High School
-      title: "Soccer: Girls C-Team  vs. Pine Creek (Away)"
+      location: Fossil Ridge High School (Grass)
+      title: "Soccer: Girls C-Team  vs. Pine Creek (Home)"
       uuid: 20230429T100000-24-3-6701362357@https://www.frontrangeleague.org
     - end: 2023-05-02T16:00:00
       start: 2023-05-02T16:00:00
