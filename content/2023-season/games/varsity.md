@@ -3,11 +3,11 @@ date: "2022-11-20@14:00:00-07:00"
 expirydate: 2023-07-01T00:00:00-06:00
 title: "Varsity Game Schedule"
 events:
-    - end: 2023-03-09T00:00:00
-      start: 2023-03-09T00:00:00
-      location: Thunderridge High School
+    - end: 2023-03-09T19:00:00
+      start: 2023-03-09T19:00:00
+      location: Halftime Help Stadium
       title: "Soccer: Girls Varsity  vs. ThunderRidge (Away)"
-      uuid: 20230309T000000-24-3-171361877@https://www.frontrangeleague.org
+      uuid: 20230309T190000-24-3-171361877@https://www.frontrangeleague.org
     - end: 2023-03-21T15:30:00
       start: 2023-03-21T15:30:00
       location: Halftime Help Stadium
