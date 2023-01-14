@@ -25,8 +25,8 @@ events:
       uuid: 20230401T090000-24-3-6701362353@https://www.frontrangeleague.org
     - end: 2023-04-06T16:00:00
       start: 2023-04-06T16:00:00
-      location: Poudre High School
-      title: "Soccer: Girls C-Team  vs. Poudre (Away)"
+      location: Fossil Ridge High School (Grass)
+      title: "Soccer: Girls C-Team  vs. Poudre (Home)"
       uuid: 20230406T160000-24-3-6701362361@https://www.frontrangeleague.org
     - end: 2023-04-11T16:00:00
       start: 2023-04-11T16:00:00

@@ -29,11 +29,11 @@ events:
       location: Cherry Creek High School
       title: "Soccer: Girls JV  vs. Cherry Creek (Away)"
       uuid: 20230401T090000-24-3-81362297@https://www.frontrangeleague.org
-    - end: 2023-04-06T16:00:00
-      start: 2023-04-06T16:00:00
-      location: Fossil Ridge High School  Stadium Turf
-      title: "Soccer: Girls JV  vs. Poudre (Home)"
-      uuid: 20230406T160000-24-3-81362305@https://www.frontrangeleague.org
+    - end: 2023-04-06T15:30:00
+      start: 2023-04-06T15:30:00
+      location: Poudre High School
+      title: "Soccer: Girls JV  (Time & Location Changed) vs. Poudre (Away)"
+      uuid: 20230406T153000-24-3-81362305@https://www.frontrangeleague.org
     - end: 2023-04-11T16:00:00
       start: 2023-04-11T16:00:00
       location: Fossil Ridge High School  Stadium Turf
