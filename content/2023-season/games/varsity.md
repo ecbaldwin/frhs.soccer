@@ -8,11 +8,11 @@ events:
       location: Halftime Help Stadium
       title: "Soccer: Girls Varsity  vs. ThunderRidge (Away)"
       uuid: 20230309T190000-24-3-171361877@https://www.frontrangeleague.org
-    - end: 2023-03-21T15:30:00
-      start: 2023-03-21T15:30:00
-      location: Halftime Help Stadium
+    - end: 2023-03-21T15:00:00
+      start: 2023-03-21T15:00:00
+      location: EchoPark Stadium
       title: "Soccer: Girls Varsity  vs. Rock Canyon (Away)"
-      uuid: 20230321T153000-24-3-171359957@https://www.frontrangeleague.org
+      uuid: 20230321T150000-24-3-171359957@https://www.frontrangeleague.org
     - end: 2023-03-24T19:00:00
       start: 2023-03-24T19:00:00
       location: Fossil Ridge High School
