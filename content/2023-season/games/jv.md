@@ -9,11 +9,11 @@ events:
       location: Thunderridge High School
       title: "Soccer: Girls JV  vs. ThunderRidge (Away)"
       uuid: 20230309T000000-24-3-81362285@https://www.frontrangeleague.org
-    - end: 2023-03-21T13:30:00
-      start: 2023-03-21T13:30:00
-      location: Halftime Help Stadium
+    - end: 2023-03-21T16:30:00
+      start: 2023-03-21T16:30:00
+      location: Rock Canyon High School
       title: "Soccer: Girls JV  vs. Rock Canyon (Away)"
-      uuid: 20230321T133000-24-3-81362289@https://www.frontrangeleague.org
+      uuid: 20230321T163000-24-3-81362289@https://www.frontrangeleague.org
     - end: 2023-03-24T17:00:00
       start: 2023-03-24T17:00:00
       location: Fossil Ridge High School
