@@ -43,11 +43,11 @@ events:
       location: Rocky Mountain High School
       title: "Soccer: Girls C-Team  vs. Rocky Mountain (Away)"
       uuid: 20230418T163000-24-3-6701362373@https://www.frontrangeleague.org
-    - end: 2023-04-20T16:00:00
-      start: 2023-04-20T16:00:00
+    - end: 2023-04-20T16:30:00
+      start: 2023-04-20T16:30:00
       location: Fossil Ridge High School  Soccer Grass (North)
       title: "Soccer: Girls C-Team  vs. Loveland (Home)"
-      uuid: 20230420T160000-24-3-6701362377@https://www.frontrangeleague.org
+      uuid: 20230420T163000-24-3-6701362377@https://www.frontrangeleague.org
     - end: 2023-04-25T16:00:00
       start: 2023-04-25T16:00:00
       location: Fossil Ridge High School  Soccer Grass (North)
