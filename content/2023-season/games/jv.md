@@ -49,11 +49,11 @@ events:
       location: Fossil Ridge High School  Stadium Turf
       title: "Soccer: Girls JV  vs. Rocky Mountain (Home)"
       uuid: 20230418T160000-24-3-81362317@https://www.frontrangeleague.org
-    - end: 2023-04-20T16:00:00
-      start: 2023-04-20T16:00:00
+    - end: 2023-04-21T16:30:00
+      start: 2023-04-21T16:30:00
       location: Loveland High School
       title: "Soccer: Girls JV  vs. Loveland (Away)"
-      uuid: 20230420T160000-24-3-81362321@https://www.frontrangeleague.org
+      uuid: 20230421T163000-24-3-81362321@https://www.frontrangeleague.org
     - end: 2023-04-25T16:00:00
       start: 2023-04-25T16:00:00
       location: Brighton High School
