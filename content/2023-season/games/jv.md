@@ -39,11 +39,11 @@ events:
       location: Fossil Ridge High School  Stadium Turf
       title: "Soccer: Girls JV  vs. Erie (Home)"
       uuid: 20230411T160000-24-3-81362309@https://www.frontrangeleague.org
-    - end: 2023-04-13T16:00:00
-      start: 2023-04-13T16:00:00
+    - end: 2023-04-13T17:30:00
+      start: 2023-04-13T17:30:00
       location: Prairie View High School
       title: "Soccer: Girls JV  vs. Prairie View (Away)"
-      uuid: 20230413T160000-24-3-81362313@https://www.frontrangeleague.org
+      uuid: 20230413T173000-24-3-81362313@https://www.frontrangeleague.org
     - end: 2023-04-18T16:00:00
       start: 2023-04-18T16:00:00
       location: Fossil Ridge High School  Stadium Turf
@@ -54,11 +54,11 @@ events:
       location: Loveland High School
       title: "Soccer: Girls JV  vs. Loveland (Away)"
       uuid: 20230421T163000-24-3-81362321@https://www.frontrangeleague.org
-    - end: 2023-04-25T16:00:00
-      start: 2023-04-25T16:00:00
+    - end: 2023-04-25T17:30:00
+      start: 2023-04-25T17:30:00
       location: Brighton High School
       title: "Soccer: Girls JV  vs. Brighton (Away)"
-      uuid: 20230425T160000-24-3-81362325@https://www.frontrangeleague.org
+      uuid: 20230425T173000-24-3-81362325@https://www.frontrangeleague.org
     - end: 2023-04-27T16:00:00
       start: 2023-04-27T16:00:00
       location: Fossil Ridge High School  Stadium Turf
@@ -71,8 +71,8 @@ events:
       uuid: 20230429T100000-24-3-81362301@https://www.frontrangeleague.org
     - end: 2023-05-02T16:00:00
       start: 2023-05-02T16:00:00
-      location: Fossil Ridge High School  Stadium Turf
-      title: "Soccer: Girls JV  vs. TBA (Home)"
+      location: TBA
+      title: "Soccer: Girls JV  vs. TBD (Away)"
       uuid: 20230502T160000-24-3-81362333@https://www.frontrangeleague.org
     - end: 2023-05-04T00:00:00
       start: 2023-05-04T00:00:00
