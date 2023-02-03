@@ -25,8 +25,8 @@ events:
       uuid: 20230330T180000-24-3-171361681@https://www.frontrangeleague.org
     - end: 2023-04-01T11:00:00
       start: 2023-04-01T11:00:00
-      location: Cherry Creek High School
-      title: "Soccer: Girls Varsity  vs. Cherry Creek (Away)"
+      location: Stutler Bowl
+      title: "Soccer: Girls Varsity  (Location Changed) vs. Cherry Creek (Away)"
       uuid: 20230401T110000-24-3-171361885@https://www.frontrangeleague.org
     - end: 2023-04-06T17:30:00
       start: 2023-04-06T17:30:00
