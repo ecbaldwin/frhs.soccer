@@ -24,11 +24,11 @@ events:
       location: Grandview High School
       title: "Soccer: Girls JV  vs. Grandview (Away)"
       uuid: 20230330T163000-24-3-81362293@https://www.frontrangeleague.org
-    - end: 2023-04-01T09:00:00
-      start: 2023-04-01T09:00:00
+    - end: 2023-04-01T10:00:00
+      start: 2023-04-01T10:00:00
       location: Cherry Creek High School
       title: "Soccer: Girls JV  vs. Cherry Creek (Away)"
-      uuid: 20230401T090000-24-3-81362297@https://www.frontrangeleague.org
+      uuid: 20230401T100000-24-3-81362297@https://www.frontrangeleague.org
     - end: 2023-04-06T15:30:00
       start: 2023-04-06T15:30:00
       location: Poudre High School
