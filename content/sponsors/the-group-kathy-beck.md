@@ -1,7 +1,7 @@
 ---
-title: "Piper Communication Services, Inc."
-date: 2022-03-19T14:45:32-06:00
-expirydate: 2023-03-01T00:00:00-07:00
+title: "Kathy Beck, The Group"
+date: 2023-03-07T17:00:00-07:00
+expirydate: 2023-03-08T00:00:00-07:00
 summary_image: /images/Beck_TG.jpg
 ---
 
