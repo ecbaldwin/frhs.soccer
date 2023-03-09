@@ -3,16 +3,16 @@ date: "2022-11-20@14:00:00-07:00"
 expirydate: 2023-07-01T00:00:00-06:00
 title: "C-team Game Schedule"
 events:
-    - end: 2023-03-09T16:30:00
-      start: 2023-03-09T16:30:00
-      location: Fossil Ridge High School  Soccer Grass (North)
-      title: "Soccer: Girls C-Team  vs. ThunderRidge (Home)"
-      uuid: 20230309T163000-24-3-6701362341@https://www.frontrangeleague.org
     - end: 2023-03-21T16:30:00
       start: 2023-03-21T16:30:00
       location: Fossil Ridge High School  Soccer Grass (North)
       title: "Soccer: Girls C-Team  vs. Rock Canyon (Home)"
       uuid: 20230321T163000-24-3-6701362345@https://www.frontrangeleague.org
+    - end: 2023-03-28T16:30:00
+      start: 2023-03-28T16:30:00
+      location: Fossil Ridge High School  Soccer Grass (North)
+      title: "Soccer: Girls C-Team  vs. ThunderRidge (Home)"
+      uuid: 20230328T163000-24-3-6701362341@https://www.frontrangeleague.org
     - end: 2023-03-30T16:30:00
       start: 2023-03-30T16:30:00
       location: Fossil Ridge High School  Soccer Grass (North)

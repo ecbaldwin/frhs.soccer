@@ -4,11 +4,11 @@ expirydate: 2023-07-01T00:00:00-06:00
 title: "Junior Varsity Game Schedule"
 featured_image: /images/DSC_1685.JPG
 events:
-    - end: 2023-03-09T00:00:00
-      start: 2023-03-09T00:00:00
+    - end: 2023-03-09T16:30:00
+      start: 2023-03-09T16:30:00
       location: Thunderridge High School
       title: "Soccer: Girls JV  vs. ThunderRidge (Away)"
-      uuid: 20230309T000000-24-3-81362285@https://www.frontrangeleague.org
+      uuid: 20230309T163000-24-3-81362285@https://www.frontrangeleague.org
     - end: 2023-03-21T16:30:00
       start: 2023-03-21T16:30:00
       location: Rock Canyon High School
