@@ -28,11 +28,11 @@ events:
       location: Fossil Ridge High School (Grass)
       title: "Soccer: Girls C-Team  vs. Rocky Mountain (Home)"
       uuid: 20230406T163000-24-3-6701391468@https://www.frontrangeleague.org
-    - end: 2023-04-07T16:30:00
-      start: 2023-04-07T16:30:00
+    - end: 2023-04-07T16:00:00
+      start: 2023-04-07T16:00:00
       location: Timnath Middle-High School
       title: "Soccer: Girls C-Team  vs. Timnath (Away)"
-      uuid: 20230407T163000-24-3-6701392671@https://www.frontrangeleague.org
+      uuid: 20230407T160000-24-3-6701392671@https://www.frontrangeleague.org
     - end: 2023-04-11T16:00:00
       start: 2023-04-11T16:00:00
       location: Erie High School
@@ -43,6 +43,11 @@ events:
       location: Fossil Ridge High School (Grass)
       title: "Soccer: Girls C-Team  vs. Fort Collins (Home)"
       uuid: 20230413T163000-24-3-6701391469@https://www.frontrangeleague.org
+    - end: 2023-04-15T10:00:00
+      start: 2023-04-15T10:00:00
+      location: Loveland Classical Schools
+      title: "Soccer: Girls C-Team  vs. Loveland Classical Schools (Away)"
+      uuid: 20230415T100000-24-3-6701392750@https://www.frontrangeleague.org
     - end: 2023-04-18T16:30:00
       start: 2023-04-18T16:30:00
       location: Rocky Mountain High School
