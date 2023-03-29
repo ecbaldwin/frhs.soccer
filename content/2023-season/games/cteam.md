@@ -13,11 +13,6 @@ events:
       location: Fossil Ridge High School  Soccer Grass (North)
       title: "Soccer: Girls C-Team  vs. ThunderRidge (Home)"
       uuid: 20230328T163000-24-3-6701362341@https://www.frontrangeleague.org
-    - end: 2023-03-30T16:30:00
-      start: 2023-03-30T16:30:00
-      location: Fossil Ridge High School  Soccer Grass (North)
-      title: "Soccer: Girls C-Team  vs. Grandview (Home)"
-      uuid: 20230330T163000-24-3-6701362349@https://www.frontrangeleague.org
     - end: 2023-04-01T09:00:00
       start: 2023-04-01T09:00:00
       location: Fossil Ridge High School  Soccer Grass (North)
