@@ -43,11 +43,11 @@ events:
       location: Rocky Mountain High School
       title: "Soccer: Girls C-Team  vs. Rocky Mountain (Away)"
       uuid: 20230418T163000-24-3-6701362373@https://www.frontrangeleague.org
-    - end: 2023-04-27T16:00:00
-      start: 2023-04-27T16:00:00
+    - end: 2023-04-26T16:00:00
+      start: 2023-04-26T16:00:00
       location: Fort Collins High School
       title: "Soccer: Girls C-Team  vs. Fort Collins (Away)"
-      uuid: 20230427T160000-24-3-6701362385@https://www.frontrangeleague.org
+      uuid: 20230426T160000-24-3-6701362385@https://www.frontrangeleague.org
     - end: 2023-04-29T10:00:00
       start: 2023-04-29T10:00:00
       location: Fossil Ridge High School (Grass)
