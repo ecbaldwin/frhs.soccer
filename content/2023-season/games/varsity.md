@@ -63,11 +63,11 @@ events:
       location: Fossil Ridge High School  Stadium Turf
       title: "Soccer: Girls Varsity  vs. Fort Collins (Home)"
       uuid: 20230427T180000-24-3-171356837@https://www.frontrangeleague.org
-    - end: 2023-04-29T22:00:00
-      start: 2023-04-29T22:00:00
+    - end: 2023-04-29T10:00:00
+      start: 2023-04-29T10:00:00
       location: Fossil Ridge High School  Stadium Turf
       title: "Soccer: Girls Varsity  vs. Pine Creek (Home)"
-      uuid: 20230429T220000-24-3-171361745@https://www.frontrangeleague.org
+      uuid: 20230429T100000-24-3-171361745@https://www.frontrangeleague.org
     - end: 2023-05-02T18:00:00
       start: 2023-05-02T18:00:00
       location: TBA
