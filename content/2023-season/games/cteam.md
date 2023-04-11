@@ -31,7 +31,7 @@ events:
     - end: 2023-04-13T16:30:00
       start: 2023-04-13T16:30:00
       location: Fossil Ridge High School (Grass)
-      title: "Soccer: Girls C-Team  vs. Fort Collins (Home)"
+      title: "Soccer: Girls C-Team  (Cancelled) vs. Fort Collins (Away)"
       uuid: 20230413T163000-24-3-6701391469@https://www.frontrangeleague.org
     - end: 2023-04-15T10:00:00
       start: 2023-04-15T10:00:00
