@@ -52,7 +52,7 @@ events:
     - end: 2023-04-19T16:30:00
       start: 2023-04-19T16:30:00
       location: Mountain View High School
-      title: "Soccer: Girls JV  vs. Loveland (Away)"
+      title: "Soccer: Girls JV  (Cancelled) vs. Loveland (Away)"
       uuid: 20230419T163000-24-3-81362321@https://www.frontrangeleague.org
     - end: 2023-04-25T17:30:00
       start: 2023-04-25T17:30:00
