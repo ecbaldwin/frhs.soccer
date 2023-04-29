@@ -53,15 +53,15 @@ events:
       location: Fossil Ridge High School (Grass)  Stadium Turf
       title: "Soccer: Girls C-Team  vs. Pine Creek (Home)"
       uuid: 20230429T120000-24-3-6701394539@https://www.frontrangeleague.org
-    - end: 2023-05-02T16:00:00
-      start: 2023-05-02T16:00:00
+    - end: 2023-05-02T17:30:00
+      start: 2023-05-02T17:30:00
       location: Fossil Ridge High School
-      title: "Soccer: Girls C-Team  vs. TBD (Home)"
-      uuid: 20230502T160000-24-3-6701362389@https://www.frontrangeleague.org
+      title: "Soccer: Girls C-Team  vs. Legacy (Home)"
+      uuid: 20230502T173000-24-3-6701362389@https://www.frontrangeleague.org
     - end: 2023-05-04T16:30:00
       start: 2023-05-04T16:30:00
-      location: Fossil Ridge High School  Soccer Grass (North)
-      title: "Soccer: Girls C-Team  vs. TBD (Home)"
+      location: Broomfield High School
+      title: "Soccer: Girls C-Team  vs. Broomfield (Away)"
       uuid: 20230504T163000-24-3-6701362393@https://www.frontrangeleague.org
 # end events
 ---

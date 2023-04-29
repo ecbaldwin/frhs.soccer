@@ -71,14 +71,14 @@ events:
       uuid: 20230429T100000-24-3-81394538@https://www.frontrangeleague.org
     - end: 2023-05-02T16:00:00
       start: 2023-05-02T16:00:00
-      location: TBA
-      title: "Soccer: Girls JV  vs. TBD (Away)"
+      location: Legacy High School
+      title: "Soccer: Girls JV  vs. Legacy (Away)"
       uuid: 20230502T160000-24-3-81362333@https://www.frontrangeleague.org
-    - end: 2023-05-04T00:00:00
-      start: 2023-05-04T00:00:00
-      location: TBA
-      title: "Soccer: Girls JV  vs. TBD (Away)"
-      uuid: 20230504T000000-24-3-81362337@https://www.frontrangeleague.org
+    - end: 2023-05-04T16:00:00
+      start: 2023-05-04T16:00:00
+      location: Fossil Ridge High School
+      title: "Soccer: Girls JV  vs. Broomfield (Home)"
+      uuid: 20230504T160000-24-3-81362337@https://www.frontrangeleague.org
 # end events
 ---
 
