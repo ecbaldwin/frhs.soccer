@@ -1,0 +1,4 @@
+#!/bin/bash -x
+
+./content/2023-season/games/update
+git commit -m "updates"
