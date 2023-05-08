@@ -78,6 +78,11 @@ events:
       location: Fossil Ridge High School
       title: "Soccer: Girls Varsity  vs. Broomfield (Home)"
       uuid: 20230504T180000-24-3-171359845@https://www.frontrangeleague.org
+    - end: 2023-05-09T17:30:00
+      start: 2023-05-09T17:30:00
+      location: Fossil Ridge High School (Turf)
+      title: "Soccer: Girls Varsity  vs. Monarch (Home)"
+      uuid: 20230509T173000-24-3-171396230@https://www.frontrangeleague.org
 # end events
 ---
 

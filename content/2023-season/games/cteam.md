@@ -55,7 +55,7 @@ events:
       uuid: 20230429T120000-24-3-6701394539@https://www.frontrangeleague.org
     - end: 2023-05-02T17:30:00
       start: 2023-05-02T17:30:00
-      location: Fossil Ridge High School
+      location: Fossil Ridge High School  Stadium Turf
       title: "Soccer: Girls C-Team  vs. Legacy (Home)"
       uuid: 20230502T173000-24-3-6701362389@https://www.frontrangeleague.org
     - end: 2023-05-04T16:30:00
