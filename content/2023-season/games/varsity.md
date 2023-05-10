@@ -83,6 +83,11 @@ events:
       location: Fossil Ridge High School (Turf)
       title: "Soccer: Girls Varsity  vs. Monarch (Home)"
       uuid: 20230509T173000-24-3-171396230@https://www.frontrangeleague.org
+    - end: 2023-05-12T18:00:00
+      start: 2023-05-12T18:00:00
+      location: Fossil Ridge High School (Turf)
+      title: "Soccer: Girls Varsity  vs. Rock Canyon (Home)"
+      uuid: 20230512T180000-24-3-171396611@https://www.frontrangeleague.org
 # end events
 ---
 
